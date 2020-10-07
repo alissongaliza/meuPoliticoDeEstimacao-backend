@@ -1,0 +1,49 @@
+Resources:
+  PropositionTable:
+    Type: 'AWS::DynamoDB::Table'
+    DeletionPolicy: Retain
+    Properties:
+      AttributeDefinitions:
+        - AttributeName: 'politician_id'
+          AttributeType: 'S'
+        - AttributeName: 'proposition_id'
+          AttributeType: 'S'
+        - AttributeName: 'theme_id'
+          AttributeType: 'S'
+      KeySchema:
+        - AttributeName: 'politician_id'
+          KeyType: HASH
+        - AttributeName: 'proposition_id'
+          KeyType: RANGE
+      ProvisionedThroughput:
+        ReadCapacityUnits: 2
+        WriteCapacityUnits: 5
+      GlobalSecondaryIndexes:
+        - IndexName: theme_id_index
+          KeySchema:
+            - AttributeName: theme_id
+              KeyType: HASH
+          Projection:
+            ProjectionType: ALL
+          ProvisionedThroughput:
+            ReadCapacityUnits: 2
+            WriteCapacityUnits: 5
+      TableName: ${self:custom.dynamo-proposition}
+  UserTable:
+    Type: 'AWS::DynamoDB::Table'
+    DeletionPolicy: Retain
+    Properties:
+      AttributeDefinitions:
+        - AttributeName: 'user_id'
+          AttributeType: 'S'
+        - AttributeName: 'data'
+          AttributeType: 'S'
+      KeySchema:
+        - AttributeName: 'user_id'
+          KeyType: HASH
+        - AttributeName: 'data'
+          KeyType: RANGE
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      TableName: ${self:custom.dynamo-user}
