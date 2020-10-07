@@ -1,8 +1,8 @@
 {
-  "name": "facaAEscolhaCerta-backend",
+	"name": "meuPoliticoDeEstimacao-backend",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:alissongaliza/facaAEscolhaCerta-backend.git",
+	"repository": "git@github.com:alissongaliza/meuPoliticoDeEstimacao-backend.git",
   "author": "alisson galiza <alissongaliza@gmail.com>",
   "license": "MIT",
   "scripts": {

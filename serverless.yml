@@ -1,4 +1,4 @@
-service: facaAEscolhaCerta-backend
+service: meuPoliticoDeEstimacao-backend
 
 frameworkVersion: '2'
 
