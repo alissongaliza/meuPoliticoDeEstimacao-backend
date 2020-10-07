@@ -1,0 +1,44 @@
+service: facaAEscolhaCerta-backend
+
+frameworkVersion: '2'
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+  stage: dev
+  region: us-east-1
+  environment:
+    USER_TABLE: ${self:service}-${opt:stage, self:provider.stage}
+    PROPOSITION_TABLE: ${self:service}-${opt:stage, self:provider.stage}
+
+  iamRoleStatements:
+    # proposition/politician table
+    - Effect: 'Allow'
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+      Resource: 'arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.PROPOSITION_TABLE}'
+    # user table
+    - Effect: 'Allow'
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+      Resource: 'arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.USER_TABLE}'
+
+custom:
+  stage: ${opt:stage, self:provider.stage}
+  prefix: ${self:custom.stage}-${self:service}
+  dynamo-proposition: ${self:custom.prefix}-proposition
+  dynamo-user: ${self:custom.prefix}-user
+
+plugins:
+  - serverless-offline
+  - serverless-plugin-typescript
+
+resources: ${file(src/shared/infra/http/config/serverless/resources.yml)}
+
+functions: ${file(src/shared/infra/http/config/serverless/functions.yml)}
