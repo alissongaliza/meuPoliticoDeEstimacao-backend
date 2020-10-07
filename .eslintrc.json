@@ -1,0 +1,54 @@
+{
+	"env": {
+		"es6": true,
+		"node": true
+	},
+	"extends": ["standard", "plugin:@typescript-eslint/recommended", "prettier/@typescript-eslint"],
+	"globals": {
+		"Atomics": "readonly",
+		"SharedArrayBuffer": "readonly"
+	},
+	"parser": "@typescript-eslint/parser",
+	"parserOptions": {
+		"ecmaVersion": 11,
+		"sourceType": "module"
+	},
+	"plugins": ["@typescript-eslint", "unused-imports", "eslint-plugin-import-helpers"],
+	"rules": {
+		"indent": [
+			"error",
+			"tab",
+			{
+				"SwitchCase": 1
+			}
+		],
+		"comma-dangle": "off",
+		"semi": "off",
+		"no-tabs": "off",
+		"space-before-function-paren": "off",
+
+		"linebreak-style": ["error", "unix"],
+		"quotes": ["error", "single"],
+
+		"@typescript-eslint/no-explicit-any": "off",
+		"import-helpers/order-imports": [
+			"warn",
+			{
+				"newlinesBetween": "always",
+				"groups": ["module", "/^core/", "/^util/", ["parent", "sibling", "index"]],
+				"alphabetize": { "order": "asc", "ignoreCase": true }
+			}
+		],
+		"no-unused-vars": "off",
+		"unused-imports/no-unused-imports": "error",
+		"unused-imports/no-unused-vars": [
+			"warn",
+			{
+				"vars": "all",
+				"varsIgnorePattern": "^_",
+				"args": "after-used",
+				"argsIgnorePattern": "^_"
+			}
+		]
+	}
+}
