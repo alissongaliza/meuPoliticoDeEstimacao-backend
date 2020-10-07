@@ -1,0 +1,10 @@
+ping:
+  handler: src/shared/infra/http/controllers/testController.ping
+  memorySize: 128
+  description: Test API reachability
+  events:
+    - http:
+        path: ping
+        method: get
+        cors:
+          origin: '*'
