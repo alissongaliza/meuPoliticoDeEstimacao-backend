@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		"preserveConstEnums": true,
+		"strictNullChecks": true,
+		"sourceMap": true,
+		"allowJs": true,
+		"outDir": ".build",
+		"moduleResolution": "node",
+		"rootDir": "./",
+		"target": "es6",
+		"module": "commonjs",
+		"lib": ["esnext"],
+		"skipLibCheck": true,
+		"declaration": true,
+		"strict": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"baseUrl": "./src",
+		"paths": {
+			"@shared/*": ["shared/*"],
+			"@modules": ["modules/"]
+		}
+	},
+	"exclude": ["node_modules"]
+}
