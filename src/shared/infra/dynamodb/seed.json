@@ -1,0 +1,2249 @@
+[
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1049173"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1049192"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1197873"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1197875"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1197930"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1199856"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1199857"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1203507"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1203508"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1203512"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1203519"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1212722"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1215517"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1215518"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1215873"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1216072"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1228126"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1228202"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1228203"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1228467"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1228889"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1229358"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1229359"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1229360"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1230269"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1279636"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1279705"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1280234"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1280235"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1297462"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1301110"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1301111"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1301116"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1301119"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1301134"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1307254"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1307255"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1307540"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1549124"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1549268"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1555259"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1579565"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1579569"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1585028"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1614762"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1618350"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1635551"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1635678"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1672199"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1693024"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1700604"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1701156"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1701158"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1701174"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1712779"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1715648"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1715692"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1724659"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1734338"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1734339"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1734340"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1734341"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1741174"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1744996"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1748911"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1755997"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1805325"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1805399"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1805401"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1806262"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#1806309"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2002081"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2017615"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2017980"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2018314"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2024254"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2024255"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2025941"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2052403"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2054475"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2054512"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2054513"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2055507"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2055510"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2056280"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2057787"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2058289"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2058358"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2074580"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2076997"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2076998"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2077008"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2077009"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2077520"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2077691"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2082855"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2085884"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2086770"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2087137"
+	},
+	{
+		"entity": "POLITICIAN#133374",
+		"data": "PROPOSITION#2087138"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1216072"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1228623"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1266562"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1266566"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1279076"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1279099"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1280816"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1299765"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1618350"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1701529"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1701531"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1732959"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#1755997"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2024470"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2053605"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2053606"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2074976"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2077435"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2080498"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2080499"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2082694"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2091470"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2092769"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095330"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095331"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095332"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095339"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095340"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095341"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095404"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095405"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095406"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095407"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095408"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095409"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095410"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095411"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095412"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2095413"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2110163"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111175"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111196"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111197"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111198"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111305"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111655"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111656"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111657"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111658"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2111860"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2113111"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2113243"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2113246"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2113247"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2113248"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2113249"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2113250"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2113355"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2113954"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2115440"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2115441"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2115443"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2115445"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2115446"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2115447"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2116444"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2116469"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2118244"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119104"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119105"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119106"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119107"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119108"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119109"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119110"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119111"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119112"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119113"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119114"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119115"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2119116"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2121030"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2121031"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2121032"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2121033"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2121034"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2121035"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#2121036"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#949200"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#961820"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#964438"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#964523"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#996696"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#996728"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#996729"
+	},
+	{
+		"entity": "POLITICIAN#133373",
+		"data": "PROPOSITION#996731"
+	},
+	{
+		"entity": "POLITICIAN#69871",
+		"data": "PROPOSITION#1049029"
+	},
+	{
+		"entity": "POLITICIAN#69871",
+		"data": "PROPOSITION#1155788"
+	},
+	{
+		"entity": "POLITICIAN#69871",
+		"data": "PROPOSITION#1199273"
+	},
+	{
+		"entity": "POLITICIAN#69871",
+		"data": "PROPOSITION#1203452"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "METADATA#42",
+		"name": "Direito Civil e Processual Civil"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1049054"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1049088"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1049106"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1049109"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1049129"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1049288"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1049332"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1050542"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1116158"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1197883"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1198544"
+	},
+	{
+		"entity": "THEME#42",
+		"data": "PROPOSITION#1198892"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "METADATA#39",
+		"name": "Esporte e Lazer"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1028980"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1028984"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1050558"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1050877"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1188017"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1188033"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1188092"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1195525"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1195577"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1197714"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1197812"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1198756"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1198893"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1199005"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1199007"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1199796"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1202989"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1203203"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1203470"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1203471"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1203473"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1215379"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1215679"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1227942"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1228200"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1228533"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1228858"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1228866"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1229862"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1230241"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1243913"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1247386"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1266683"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1278730"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1278747"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1278750"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1279438"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1295894"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1299786"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1299787"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1299788"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1299789"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1299790"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1299791"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1301083"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1301157"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1301585"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1306608"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1316208"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1384567"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1430833"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1513931"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1514012"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1514039"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1514340"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1514602"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1515630"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1515649"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1526897"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1526898"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1527032"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1548696"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1548831"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1548832"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1549121"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1554107"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1554108"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1554259"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1555306"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1579179"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1594807"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1594909"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1598501"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1598856"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1610686"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1611556"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1700671"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1700672"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1701720"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1712324"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1712434"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1715562"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1724763"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1724776"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732891"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732894"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732895"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732896"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732897"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732898"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732900"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732901"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732902"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732903"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732904"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732905"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732906"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732907"
+	},
+	{
+		"entity": "THEME#39",
+		"data": "PROPOSITION#1732908"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "METADATA#43",
+		"name": "Direito Penal e Processual Penal"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1006401"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1029009"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1029093"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1046198"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1048982"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049009"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049010"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049014"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049018"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049107"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049113"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049114"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049135"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049168"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049356"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049380"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049403"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1049405"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1050656"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1050818"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1155235"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1188015"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1188087"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1194766"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1195489"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1195558"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1195560"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1197729"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1197773"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1197780"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1197880"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1198434"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1198699"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1198804"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1198982"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1199296"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1199853"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1203487"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1203643"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1203693"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1212452"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1212454"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1212604"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1212692"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1214894"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1215162"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1215271"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1215306"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1215484"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1215488"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1215674"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1215795"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1227821"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1227936"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1227950"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1228039"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1228491"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1228497"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1228532"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1228624"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1228632"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1228785"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1228884"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1229552"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1229772"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1229808"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1229833"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1229928"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1230240"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1230299"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1234063"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1234188"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1243753"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1243849"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1278717"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1278732"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1278734"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1278738"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1278965"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1279223"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1279224"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1279451"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1279491"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1279496"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1279584"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1279692"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1279971"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1280012"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1280254"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1295741"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1299730"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1299738"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1301045"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1301128"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1301180"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1301482"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1301494"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1301537"
+	},
+	{
+		"entity": "THEME#43",
+		"data": "PROPOSITION#1301667"
+	},
+	{
+		"entity": "PROPOSITION#1049438",
+		"data": "METADATA#1049438",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1049438",
+		"ementa": "Dá nova redação ao art. 10 da Lei nº 8.069, de 13 de julho de 1990, que \"Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências\"."
+	},
+	{
+		"entity": "PROPOSITION#1188078",
+		"data": "METADATA#1188078",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1188078",
+		"ementa": "Susta a Resolução nº 12, de 16 de janeiro de 2015, do Conselho Nacional de Combate à Discriminação e Promoções dos Direitos de Lésbicas, Gays, Travestis e Transexuais - CNDC/LGBT, que \"Estabelece parâmetros para a garantia das condições de acesso e permanência de pessoas travestis e transexuais - e todas aquelas que tenham sua identidade de gênero não reconhecida em diferentes espaços sociais - nos sistemas e instituições de ensino, formulando orientações quanto ao reconhecimento institucional da identidade de gênero e sua operacionalização."
+	},
+	{
+		"entity": "PROPOSITION#1194759",
+		"data": "METADATA#1194759",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1194759"
+	},
+	{
+		"entity": "PROPOSITION#1198171",
+		"data": "METADATA#1198171",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1198171",
+		"ementa": "Dá nova redação à MPV 660/2014"
+	},
+	{
+		"entity": "PROPOSITION#1198573",
+		"data": "METADATA#1198573",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1198573",
+		"ementa": "Requer o encaminhamento de Requerimento de Informação ao Exmo. Sr. Ministro da Integração Nacional acerca do atual cronograma de execução da obra de Transposição do Rio São Francisco com as Bacias Hidrográficas do Nordeste Setentrional."
+	},
+	{
+		"entity": "PROPOSITION#1215722",
+		"data": "METADATA#1215722",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1215722",
+		"ementa": "Modifica a Lei nº 12.711, de 29 de agosto de 2012, para assegurar prioridade de ingresso em instituições públicas de educação superior os estudantes que residam em entidades de acolhimento institucional."
+	},
+	{
+		"entity": "PROPOSITION#1229145",
+		"data": "METADATA#1229145",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1229145",
+		"ementa": "Dá nova redação à MPV 664/2014"
+	},
+	{
+		"entity": "PROPOSITION#1234217",
+		"data": "METADATA#1234217",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1234217",
+		"ementa": "Requer a inclusão na Ordem do Dia da Proposta de Emenda à Constituição nº 186 de 2007, que \"altera o art. 37 da Constituição Federal\"."
+	},
+	{
+		"entity": "PROPOSITION#1278854",
+		"data": "METADATA#1278854",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1278854",
+		"ementa": "Inclui o parágrafo 11 no artigo 4º da Lei nº 10.260, de 12 de julho de 2001, para vedar às Instituições de Ensino a cobrança de encargos educacionais em percentual de reajuste superior ao estabelecido pelo Ministério da Educação."
+	},
+	{
+		"entity": "PROPOSITION#1278879",
+		"data": "METADATA#1278879",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1278879",
+		"ementa": "Parecer do Relator, Dep. Vicentinho (PT-SP), pela aprovação."
+	},
+	{
+		"entity": "PROPOSITION#1279611",
+		"data": "METADATA#1279611",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279611",
+		"ementa": "Requeiro seja requisitado ao Hospital Nossa Senhora das Graças, localizado em Canoas/RS, o envio a esta CPI da relação dos prontuários dos pacientes submetidos à cirurgia de colocação de órteses/próteses, nos últimos 5 anos, indicando o nome dos pacientes, dos médicos e a identificação da órtese/prótese utilizada."
+	},
+	{
+		"entity": "PROPOSITION#12808",
+		"data": "METADATA#12808",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/12808",
+		"ementa": "Sugere ao Poder Executivo, por intermédio do Ministério do Meio Ambiente, a determinação de medidas enérgicas, sem prejuízo de outras instituições públicas, com a finalidade de detectar e reprimir o contrabando de madeiras de lei e com o fito de concretizar uma maior proteção ao meio ambiente."
+	},
+	{
+		"entity": "PROPOSITION#1297450",
+		"data": "METADATA#1297450",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1297450"
+	},
+	{
+		"entity": "PROPOSITION#1299826",
+		"data": "METADATA#1299826",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1299826",
+		"ementa": "Acrescenta o § 4º ao art. 102 da Constituição Federal, para estabelecer a reinclusão automática em pauta dos processos que especifica, um ano após o pedido de vista pelos Ministros do Supremo Tribunal Federal."
+	},
+	{
+		"entity": "PROPOSITION#1302781",
+		"data": "METADATA#1302781",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1302781",
+		"ementa": "Sugere ao Ministro de Estado das Comunicações a instalação de antena de telefonia móvel no Povoado Capim Grosso no município de Canindé do São Francisco no Estado de Sergipe."
+	},
+	{
+		"entity": "PROPOSITION#1307102",
+		"data": "METADATA#1307102",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1307102",
+		"ementa": "Inscreve o nome de João Belchior Marques Goulart no Livro dos Heróis da Pátria e dá outras providências."
+	},
+	{
+		"entity": "PROPOSITION#1307461",
+		"data": "METADATA#1307461",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1307461",
+		"ementa": "Requer ao Ministro da Educação informações acerca do panorama atual de recursos de acessibilidade disponibilizados aos alunos com deficiência e das medidas planejadas para o cumprimento de estratégias da meta 4 do Plano Nacional de Educação (PNE)."
+	},
+	{
+		"entity": "PROPOSITION#1514367",
+		"data": "METADATA#1514367",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1514367",
+		"ementa": "Parecer do Relator, Dep. Daniel Almeida (PCdoB-BA), pela aprovação."
+	},
+	{
+		"entity": "PROPOSITION#1537571",
+		"data": "METADATA#1537571",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1537571",
+		"ementa": "Inclui novo § 4º ao art. 40 da Lei nº 8.078, de 11 de setembro de 1990 - Código de Proteção e Defesa do Consumidor -, para proibir a de cobrança de taxa de visita técnica ou de qualquer despesa do consumidor com a finalidade de elaboração de orçamento."
+	},
+	{
+		"entity": "PROPOSITION#1549084",
+		"data": "METADATA#1549084",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1549084",
+		"ementa": "Parecer do Relator, Dep. Pedro Uczai (PT-SC), pela rejeição."
+	},
+	{
+		"entity": "PROPOSITION#1585116",
+		"data": "METADATA#1585116",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1585116",
+		"ementa": "Altera a Lei nº 9.074, de 7 de julho de 1995, para dispor sobre os limites de carga e sobre os prazos que devem ser observados para consumidores de energia elétrica migrarem do Ambiente de Contratação Regulada para o Ambiente de Contratação Livre."
+	},
+	{
+		"entity": "PROPOSITION#1594399",
+		"data": "METADATA#1594399",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1594399",
+		"ementa": "Altera a Lei nº 5.766, de 20 de dezembro de 1971, que cria o Conselho Federal e os Conselhos Regionais de Psicologia."
+	},
+	{
+		"entity": "PROPOSITION#1598638",
+		"data": "METADATA#1598638",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1598638"
+	},
+	{
+		"entity": "PROPOSITION#1635763",
+		"data": "METADATA#1635763",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1635763",
+		"ementa": "Requer a convocação dos Srs. ELEMER COELHO e STÊNIO SANTOS, delegados da Polícia Federal, para prestar informações perante esta Comissão Parlamentar de Inquérito."
+	},
+	{
+		"entity": "PROPOSITION#1673058",
+		"data": "METADATA#1673058",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1673058",
+		"ementa": "Aprovado por Unanimidade o Parecer.. \nParecer do Relator, Dep. Ademir Camilo (PROS-MG), pela aprovação."
+	},
+	{
+		"entity": "PROPOSITION#1685076",
+		"data": "METADATA#1685076",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1685076"
+	},
+	{
+		"entity": "PROPOSITION#1741143",
+		"data": "METADATA#1741143",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1741143",
+		"ementa": "Requer a retirada de tramitação do Projeto de Lei n. 578, de 2015, de sua autoria."
+	},
+	{
+		"entity": "PROPOSITION#1805142",
+		"data": "METADATA#1805142",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1805142",
+		"ementa": "A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na Oitava Reunião Extraordinária, realizada em 22 de setembro de 2015, APROVOU, por unanimidade, o Relatório do Deputado ÁTILA LINS pelo CONHECIMENTO e ARQUIVAMENTO das seguintes matérias: Aviso nº 6/2014-CN, que \"Relatório de Acompanhamento pelo Tribunal de Contas da União da Gestão Fiscal dos Poderes e Órgãos da União, exercício 2013.\"; MCN nº 41/2013, que \"Encaminha, nos termos do art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal referente ao período de janeiro a abril do exercício de 2013.\"; MCN nº 89/2013, que \"Encaminha, nos termos do art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal referente ao período de janeiro a agosto de 2013.\"; OFN nº 18/2013, que \"Encaminha, em cumprimento de determinação expressa no inciso I do art. 5° da Lei n° 10.028, de 19 de outubro de 2000, os demonstrativos que compõem os Relatórios de Gestão Fiscal do Ministério Público da União e do Ministério Público do Distrito Federal e Territórios, referentes ao 1° quadrimestre de 2013.\"; OFN nº 19/2013, que \"Encaminha em cumprimento ao disposto no inciso I do art. 5° da Lei 10.028, de 19/10/2000, o Relatório de Gestão Fiscal da Câmara dos Deputados, referente ao período de maio de 2012 a abril de 2013.\"; OFN nº 20/2013, que \"Encaminha, em cumprimento ao disposto no art. 5º da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do 1º Quadrimestre de 2013 de que trata o art. 54 da lei Completar nº 101/2000, do Conselho Nacional de Justiça.\"; OFN nº 21/2013, que \"Encaminha, em cumprimento ao art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do Tribunal Superior do Trabalho referente ao período de maio/2012 a abril/2013.\"; OFN nº 22/2013, que \"Encaminha, em conformidade com o inciso I do art. 5º da Lei nº 10.028/2000, o Relatório de Gestão Fiscal do Conselho da Justiça Federal, referente ao 1º quadrimestre de 2013.\"; OFN  nº 24/2013, que \"Encaminha, em cumprimento ao art. 5º, iniciso I, da Lei nº 10.028, de 19 de outubro de 200, o Relatório de Gestão Fiscal do Tribunal de Justiça do Distrito Federal e dos Territórios, referente ao 1º quadrimestre de 2013.\"; OFN  nº 25/2013, que \"Encaminha em cumprimento ao artigo 5º, inciso I, da Lei nº 10.028/00, o Relatório de Gestão Fiscal do Tribunal Superior Eleitoral, referente ao primeiro quadrimestre de 2013.\"; OFN  nº 31/2013, que \"Encaminha, em conformidade com o art. 54 da Lei Complementar nº 101, de 4 de maio de 2000, e de acordo com a Lei nº 12.708, de 17 de agosto de 2012, o Relatório de Gestão Fiscal do Superior Tribunal de Justiça referente ao 1º quadrimestre de 2013.\"; OFN nº 33/2013, que \"Encaminha o Relatório de Gestão Fiscal do 2º Quadrimestre de 2013, de que trata o art. 54 da Lei Complementar nº 101/2000, do Conselho Nacional de Justiça.\"; OFN  nº 35/2013, que \"Encaminha, em cumprimento ao artigo 5º, inciso I, da Lei n° 10.028, de 19 de outubro de 2000, cópia do Relatório de Gestão Fiscal do Tribunal Superior do Trabalho, referente ao período de setembro/2012 a agosto/2013.\"; OFN  nº 36/2013, que \"Encaminha, em cumprimento ao disposto no art. 118 da Lei nº 12.465 de agosto de 2011, o Relatório de Gestão Fiscal do Ministério Público da União e do Ministério Público do Distrito Federal e Territórios, referentes ao 2º quadrimestre de 2013.\"; OFN  nº 37/2013, que \"Encaminha, em cumprimento ao disposto no inciso I do art. 5º da Lei 10.028, de 19/10/2000, o Relatório de Gestão Fiscal da Câmara dos Deputados, referente ao período de setembro de 2012 a agosto de 2013.\" e OFN  nº 39/2013 que \"Encaminha, em conformidade com o inciso I do art. 5º da Lei nº 10.028/2000, o Relatório de Gestão Fiscal do Conselho da Justiça Federal, referente ao 2º quadrimestre de 2013\"."
+	},
+	{
+		"entity": "PROPOSITION#1805223",
+		"data": "METADATA#1805223",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1805223",
+		"ementa": "Dá nova redação à MPV 676/2015"
+	},
+	{
+		"entity": "PROPOSITION#1805254",
+		"data": "METADATA#1805254",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1805254",
+		"ementa": "Dá nova redação à MPV 676/2015"
+	},
+	{
+		"entity": "PROPOSITION#1806091",
+		"data": "METADATA#1806091",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1806091",
+		"ementa": "Aprovado o Parecer.. \nParecer do Relator, Dep. Laercio Oliveira (SD-SE), pela rejeição."
+	},
+	{
+		"entity": "PROPOSITION#1806389",
+		"data": "METADATA#1806389",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1806389",
+		"ementa": "Altera a Lei nº 10.826, de 2003,  para aumentar a pena dos crimes especificados nos artigos 16, 17, 18  e 19, quando se tratar de arma de uso proibido ou restrito."
+	},
+	{
+		"entity": "PROPOSITION#1806589",
+		"data": "METADATA#1806589",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1806589",
+		"ementa": "Requer informações ao Senhor Ministro da Cultura, acerca das ações do Plano Nacional de Cultura, no Estado de Mato Grosso do Sul, referente ao ano de 2014."
+	},
+	{
+		"entity": "PROPOSITION#2017317",
+		"data": "METADATA#2017317",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2017317",
+		"ementa": "Altera a Lei nº 10.098, de 19 de dezembro de 2000, para estabelecer reserva de vagas em estacionamentos públicos para mulheres a partir do sexto mês de gestação e até 30 (trinta) dias após o parto."
+	},
+	{
+		"entity": "PROPOSITION#2017457",
+		"data": "METADATA#2017457",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2017457",
+		"ementa": "Parecer do Relator, Dep. Laercio Oliveira (SD-SE), pela rejeição deste, e do PL 7195/2014, apensado, e pela aprovação do PL 7648/2014, apensado."
+	},
+	{
+		"entity": "PROPOSITION#2023916",
+		"data": "METADATA#2023916",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2023916",
+		"ementa": "Dispõe sobre a dedução dos gastos com academia de ginástica ou em outros esportes na Declaração de Ajuste Anual do Imposto de Renda Pessoa Física."
+	},
+	{
+		"entity": "PROPOSITION#2025532",
+		"data": "METADATA#2025532",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2025532",
+		"ementa": "Aprovado por Unanimidade o Parecer.. \nParecer da relatora, Dep. Soraya Santos, pela compatibilidade financeira e orçamentária."
+	},
+	{
+		"entity": "PROPOSITION#2026096",
+		"data": "METADATA#2026096",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2026096",
+		"ementa": "Modifica o art. 9º da Lei nº 12.694, de 24 de julho de 2012, para dispor sobre a prestação de proteção especial aos ocupantes dos cargos de Auditor-Fiscal da Receita Federal do Brasil e de Auditor-Fiscal do Trabalho e dá outras providências."
+	},
+	{
+		"entity": "PROPOSITION#2026119",
+		"data": "METADATA#2026119",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2026119",
+		"ementa": "Parecer da Relatora, Dep. Soraya Santos (PMDB-RJ), pela aprovação."
+	},
+	{
+		"entity": "PROPOSITION#2052903",
+		"data": "METADATA#2052903",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2052903",
+		"ementa": "Dá nova redação à MPV 688/2015"
+	},
+	{
+		"entity": "PROPOSITION#2054855",
+		"data": "METADATA#2054855",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2054855",
+		"ementa": "Dá nova redação à MPV 691/2015"
+	},
+	{
+		"entity": "PROPOSITION#2057190",
+		"data": "METADATA#2057190",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2057190",
+		"ementa": "Parecer do Relator, Dep. Lucas Vergilio (SD-GO), pela aprovação."
+	},
+	{
+		"entity": "PROPOSITION#2075199",
+		"data": "METADATA#2075199",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075199",
+		"ementa": "Sugere ao Ministério do Esporte para implantação do Programa Esporte e Lazer, propiciar o repasse de recursos financeiros em forma de concessão de bolsa para que os objetivos do programa sejam efetivamente alcançados em sua aplicabilidade plena, no Município de São Sebastião da Amoreira, Estado do Paraná."
+	},
+	{
+		"entity": "PROPOSITION#2076602",
+		"data": "METADATA#2076602",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2076602",
+		"ementa": "Altera o parágrafo único do art. 105 do Regimento Interno para restringir a possibilidade de desarquivamento de proposições àquelas que tenham recebido parecer de pelo menos uma comissão de mérito na legislatura anterior."
+	},
+	{
+		"entity": "PROPOSITION#2077453",
+		"data": "METADATA#2077453",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2077453",
+		"ementa": "Sugere que seja incluída entre as opções do \"Disque 100\" da Secretaria de Direitos Humanos a opção \"discriminação aos direitos da família\"."
+	},
+	{
+		"entity": "PROPOSITION#2079193",
+		"data": "METADATA#2079193",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2079193",
+		"ementa": "Requer, em sintonia com as disposições constitucionais, legais e regimentais, seja CONVOCADO o(a) Sr.(a) VICTOR SANDRI para prestar depoimento."
+	},
+	{
+		"entity": "PROPOSITION#2081718",
+		"data": "METADATA#2081718",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2081718",
+		"ementa": "CÓDIGO PROCESSO PENAL."
+	},
+	{
+		"entity": "PROPOSITION#2082475",
+		"data": "METADATA#2082475",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2082475",
+		"ementa": "Requer Informações ao Senhor Ministro das Comunicações, que através da ANATEL esclareça o fato de que as operadoras pretendem oferecer internet fixa com franquia limitada, em que o serviço pode ser suspenso quando o usuário atinge uma determinada quantidade de arquivos e dados baixados."
+	},
+	{
+		"entity": "PROPOSITION#2083494",
+		"data": "METADATA#2083494",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083494",
+		"ementa": "Altera a Lei nº 6.938, de 1981, a Lei nº 8.666, de 1993, e a Lei nº 9.605, de 1998,para instituir o Cadastro de Crimes contra o Meio Ambiente e vedar as pessoas jurídicas inscritas nesse Cadastro de receberem financiamentos e incentivos governamentais e de contratar com o Poder Público."
+	},
+	{
+		"entity": "PROPOSITION#2083526",
+		"data": "METADATA#2083526",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083526",
+		"ementa": "Requer a inclusão na Ordem do Dia do Plenário, do Projeto de Lei n.º 2.245/2007, que regulamenta a profissão de Tecnólogo e dá outras providências."
+	},
+	{
+		"entity": "PROPOSITION#2083892",
+		"data": "METADATA#2083892",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083892",
+		"ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941- Código de Processo Penal."
+	},
+	{
+		"entity": "PROPOSITION#2089504",
+		"data": "METADATA#2089504",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2089504",
+		"ementa": "Requer realização de audiência pública no âmbito da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural (CAPADR) para debater a Portaria n° 52, de 16 de junho de 2016, do Ministério de Agricultura Pecuária e Abastecimento, referente à divulgação dos resultados do Programa Nacional de Controle de Resíduos e Contaminantes (PNCRC) das culturas agrícolas especificadas."
+	},
+	{
+		"entity": "PROPOSITION#2089998",
+		"data": "METADATA#2089998",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2089998",
+		"ementa": "Proíbe a venda, a oferta, e o consumo de bebida energética, ainda que gratuitamente, aos menores de 18 (dezoito) anos de idade."
+	},
+	{
+		"entity": "PROPOSITION#2091707",
+		"data": "METADATA#2091707",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2091707",
+		"ementa": "Aprovado por Unanimidade o Parecer.. \nParecer do Relator, Dep. Vicentinho (PT-SP), pela aprovação, com emenda."
+	},
+	{
+		"entity": "PROPOSITION#2091992",
+		"data": "METADATA#2091992",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2091992",
+		"ementa": "Solicita informações ao Ministro do Desenvolvimento Social e Agrário, como se encontra o processo do Terra Legal, no Município de Borba, no Estado do Amazonas"
+	},
+	{
+		"entity": "PROPOSITION#2092802",
+		"data": "METADATA#2092802",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2092802",
+		"ementa": "Contra parecer terminativo da Comissão de Finanças e Tributação, emitido na forma do art. 54, ao Projeto de Lei 3.623/2008, que \"Institui incentivos fiscais para operações com instrumentos musicais."
+	},
+	{
+		"entity": "PROPOSITION#2093529",
+		"data": "METADATA#2093529",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2093529",
+		"ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, permitindo à Anatel alterar a modalidade de licenciamento de serviço de telecomunicações de concessão para autorização."
+	},
+	{
+		"entity": "PROPOSITION#2095265",
+		"data": "METADATA#2095265",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2095265",
+		"ementa": "Dá nova redação à MPV 727/2016"
+	},
+	{
+		"entity": "PROPOSITION#2110703",
+		"data": "METADATA#2110703",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2110703",
+		"ementa": "Solicita a retirada de tramitação do Projeto de Lei  6.646 de 2013 que \"Autoriza o Poder Executivo a doar três aeronaves T-27 TUCANO à Força Aérea de Moçambique\", enviado à Câmara dos Deputados com a Mensagem nº 463, de 2013."
+	},
+	{
+		"entity": "PROPOSITION#2111884",
+		"data": "METADATA#2111884",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111884",
+		"ementa": "Altera o § 2º, do Art. 477 da Consolidação das Leis do Trabalho, aprovado pelo Decreto-Lei nº 5.452 de 1º maio de 1943."
+	},
+	{
+		"entity": "PROPOSITION#2112408",
+		"data": "METADATA#2112408",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2112408"
+	},
+	{
+		"entity": "PROPOSITION#2114840",
+		"data": "METADATA#2114840",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114840",
+		"ementa": "Dá nova redação à MPV 739/2016"
+	},
+	{
+		"entity": "PROPOSITION#2115998",
+		"data": "METADATA#2115998",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2115998"
+	},
+	{
+		"entity": "PROPOSITION#2116391",
+		"data": "METADATA#2116391",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2116391",
+		"ementa": "Aprovada a Redação Final. Absteve-se de votar o Deputado Esperidião Amin.. \nParecer do Relator, Dep. Delegado Edson Moreira (PR-MG), pela constitucionalidade, juridicidade, técnica legislativa, e, no mérito, pela aprovação."
+	},
+	{
+		"entity": "PROPOSITION#2118292",
+		"data": "METADATA#2118292",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2118292",
+		"ementa": "VOTO: pela aprovação do Projeto de Lei, na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas."
+	},
+	{
+		"entity": "PROPOSITION#2119108",
+		"data": "METADATA#2119108",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2119108",
+		"ementa": "Dá nova redação à MPV 746/2016"
+	},
+	{
+		"entity": "PROPOSITION#2120286",
+		"data": "METADATA#2120286",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2120286",
+		"ementa": "Altera o art. 44 da Lei nº 9.394, de 1996, de diretrizes e bases da educação nacional, para admitir a matrícula em curso de graduação de estudante que, ainda cursando o ensino médio, tenha sido aprovado em processo seletivo e obtido pontuação no Exame Nacional do Ensino Médio que o habilite ao certificado de conclusão desse nível de ensino."
+	},
+	{
+		"entity": "PROPOSITION#2120932",
+		"data": "METADATA#2120932",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2120932",
+		"ementa": "Requer a realização de Seminário sobre a figura do Investidor Anjo na Lei do Super Simples, no contexto do desenvolvimento econômico brasileiro, na cidade do Rio de Janeiro - RJ."
+	},
+	{
+		"entity": "PROPOSITION#2121702",
+		"data": "METADATA#2121702",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2121702",
+		"ementa": "Aprova o texto do Acordo sobre Serviços Aéreos entre a República Federativa do Brasil e o Reino dos Países Baixos, com Relação à Curaçao, referente a Transporte Aéreo entre Brasil e Curaçao, celebrado em Brasília, em 03 de dezembro de 2013."
+	},
+	{
+		"entity": "PROPOSITION#2122185",
+		"data": "METADATA#2122185",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122185",
+		"ementa": "Solicita à Car Central de Autopeças e Rolamentos S.A. todas as informações, comprovantes e documentos relacionados aos projetos culturais vinculados à Lei Rouanet, nos últimos 10 anos."
+	},
+	{
+		"entity": "PROPOSITION#2122219",
+		"data": "METADATA#2122219",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122219",
+		"ementa": "Solicita à RIP Serviços Industriais Ltda. todas as informações, comprovantes e documentos relacionados aos projetos culturais vinculados à Lei Rouanet, nos últimos 10 anos."
+	},
+	{
+		"entity": "PROPOSITION#2122371",
+		"data": "METADATA#2122371",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122371",
+		"ementa": "Solicita a Magnetoscópio Produções Ltda. todas as informações, comprovantes e documentos relacionados aos projetos culturais vinculados à Lei Rouanet, nos últimos 10 anos."
+	},
+	{
+		"entity": "PROPOSITION#2123776",
+		"data": "METADATA#2123776",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2123776",
+		"ementa": "Requer a realização de Audiência Pública destinada a debater o Projeto de lei n° 7.180/2014\n\nConvidados:\nMaria Virgínia de Freitas - Mestre em Educação pela USP\nDenise Eloy - Jornalista da Ação Educativa\nJuliane Cintra - Coordenadora de Comunicação Ação Educativa\nDenise Carreira - Doutora em Educação pela Universidade de São Paulo"
+	},
+	{
+		"entity": "PROPOSITION#2124145",
+		"data": "METADATA#2124145",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124145",
+		"ementa": "Parecer do Relator, Dep. Fábio Ramalho (PMDB-MG), pela aprovação."
+	},
+	{
+		"entity": "PROPOSITION#2124445",
+		"data": "METADATA#2124445",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124445",
+		"ementa": "A Sua Senhoria o Senhor\nFABIO PORCHAT"
+	},
+	{
+		"entity": "PROPOSITION#2124634",
+		"data": "METADATA#2124634",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124634",
+		"ementa": "PROPOSTA DE EMENDA À CONSTITUIÇÃO N° 287, DE 2016\n\nAltera os Arts. 37, 40, 109, 149, 167,195. 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.\n\n\nEMENDA ADITIVA N.º      DE 2017\n(do Sr. Arnaldo Faria de Sá e outros)\n\n\n I - Inclua-se, no Art. 1° da PEC 287/2016, a seguinte alteração aos § 1º do Art. 40 da Constituição:\n\"Art. 40 ………………………………………………………………….....................\n§ 1°……………........................................................................\nI - por invalidez permanente;\nII - ……….............................................................................\nIII - ……..............................................................................\nIV - - O servidor da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, que tenha ingressado no serviço público até 31 de dezembro de 2003, que se aposentou ou venha se aposentar por invalidez permanente, com fundamento no inciso I do § 1° do Art. 40 da Constituição Federal, ressalvada a hipótese do § 16 do Art. 40 da Constituição Federal, tem direito a:\na)\t- proventos de aposentadoria calculada com b"
+	},
+	{
+		"entity": "PROPOSITION#2125129",
+		"data": "METADATA#2125129",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125129",
+		"ementa": "Emenda aditiva"
+	},
+	{
+		"entity": "PROPOSITION#2125565",
+		"data": "METADATA#2125565",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125565",
+		"ementa": "Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943 - Consolidação das Leis do Trabalho, e a Lei nº 6.019, de 3 de janeiro de 1974, para dispor sobre eleições de representantes dos trabalhadores no local de trabalho e sobre trabalho temporário, e dá outras providências."
+	},
+	{
+		"entity": "PROPOSITION#2126003",
+		"data": "METADATA#2126003",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2126003",
+		"ementa": "Altera dispositivo ao PL n.6787/2016, que \"altera o Decreto Lei n.5.452, e 1º de maio de 1943 - Consolidação das Leis do Trabalho, e a Lei 6.019, de 3 de janeiro de 1974, para dispor sobre eleições de representantes dos trabalhadores no local de trabalho e sobre trabalho temporário, e dá outras providências."
+	},
+	{
+		"entity": "PROPOSITION#2126985",
+		"data": "METADATA#2126985",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2126985",
+		"ementa": "Solicita a realização de Audiência Pública com a finalidade de conhecer e debater o Projeto Brasil Amanhã, da Fundação Osvaldo Cruz (FIOCRUZ"
+	},
+	{
+		"entity": "PROPOSITION#2128073",
+		"data": "METADATA#2128073",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128073",
+		"ementa": "Requer seja realizada reunião de Audiência Pública com o presidente do Tribunal de Contas da União - TCU, para que exponha a situação atual das contas e das denúncias  da Empresa Brasileira de Correios e Telégrafos - ECT."
+	},
+	{
+		"entity": "PROPOSITION#2128116",
+		"data": "METADATA#2128116",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128116",
+		"ementa": "Requer realização de Audiência Pública para discutir as diretrizes operacionais de financiamento à Carcinicultura."
+	},
+	{
+		"entity": "PROPOSITION#2128732",
+		"data": "METADATA#2128732",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128732",
+		"ementa": "Aumenta a pena do crime de falsificação, corrupção, adulteração ou alteração de substância ou produtos alimentícios."
+	},
+	{
+		"entity": "PROPOSITION#2129537",
+		"data": "METADATA#2129537",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2129537",
+		"ementa": "Emenda aditiva"
+	},
+	{
+		"entity": "PROPOSITION#2132927",
+		"data": "METADATA#2132927",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2132927",
+		"ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre tubos de escape de ônibus e caminhões."
+	},
+	{
+		"entity": "PROPOSITION#2135187",
+		"data": "METADATA#2135187",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2135187",
+		"ementa": "Requer a realização de audiência pública com o Coordenador dos Secretários do CONFAZ no âmbito da Comissão Especial para debater sobre a importância da alteração na Lei Kandir."
+	},
+	{
+		"entity": "PROPOSITION#2137829",
+		"data": "METADATA#2137829",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2137829",
+		"ementa": "Aprovado por Unanimidade o Parecer.. \nParecer do Relator, Dep. Bebeto, pela aprovação deste, e do PL 8.247/14, apensado, com substitutivo."
+	},
+	{
+		"entity": "PROPOSITION#2236261",
+		"data": "METADATA#2236261",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2236261",
+		"ementa": "Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de fevereiro de 2020.\n\nNOVA EMENTA: Dispõe sobre o valor do salário-mínimo a vigorar a partir de 1º de janeiro de 2020; e dá outras providências."
+	},
+	{
+		"entity": "PROPOSITION#2237397",
+		"data": "METADATA#2237397",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2237397",
+		"ementa": "Requisição de informações à Prefeitura Municipal de Marechal Deodoro - AL."
+	},
+	{
+		"entity": "PROPOSITION#2237473",
+		"data": "METADATA#2237473",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2237473",
+		"ementa": "Requisição de informações à Prefeitura do Município de Ceará-Mirim (RN)."
+	},
+	{
+		"entity": "PROPOSITION#22382",
+		"data": "METADATA#22382",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/22382",
+		"ementa": "SOLICITA INFORMAÇÕES AO MINISTERIO DA FAZENDA, SOBRE QUAIS OS VALORES LIBERADOS PARA A OBRA DE DUPLICAÇÃO DA RODOVIA FERNÃO DIAS (BELO HORIZONTE-SÃO PAULO), DESDE O SEU INÍCIO, ATUALIZADOS, E QUAL A DATA DE LIBERAÇÃO."
+	},
+	{
+		"entity": "PROPOSITION#2238448",
+		"data": "METADATA#2238448",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238448",
+		"ementa": "Requer a concessão de Voto de Louvor em comemoração ao 139º Aniversário do município amazonense de Lábrea."
+	},
+	{
+		"entity": "PROPOSITION#2238882",
+		"data": "METADATA#2238882",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238882",
+		"ementa": "Altera a Lei n º 6.088, de 16 de julho de 1974, que dispõe sobre a criação da Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF, para incluir todas as bacias hidrográficas do Nordeste em sua jurisdição."
+	},
+	{
+		"entity": "PROPOSITION#2242422",
+		"data": "METADATA#2242422",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2242422"
+	},
+	{
+		"entity": "PROPOSITION#2242464",
+		"data": "METADATA#2242464",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2242464",
+		"ementa": "Dispõe sobre medidas de intervenção na propriedade e atuação no domínio econômico para assegurar o fornecimento de bens e serviços essenciais durante a emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019."
+	},
+	{
+		"entity": "PROPOSITION#22839",
+		"data": "METADATA#22839",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/22839",
+		"ementa": "Submete à apreciação do Congresso Nacional o ato constante do Decreto de 17 de julho de 2000, que renova concessão à Rádio Quaraí Ltda., para explorar serviços de radiodifusão, a partir de 1º de maio de 1994, na cidade de Quaraí, Estado do Rio Grande do Sul."
+	},
+	{
+		"entity": "PROPOSITION#944263",
+		"data": "METADATA#944263",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/944263"
+	},
+	{
+		"entity": "PROPOSITION#946389",
+		"data": "METADATA#946389",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/946389",
+		"ementa": "Requer a inclusão do meu nome no rol dos parlamentares que apoiam a CPI da Petrobras."
+	},
+	{
+		"entity": "PROPOSITION#996277",
+		"data": "METADATA#996277",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996277",
+		"ementa": "Acrescenta §14 ao art. 27 da Lei n.º 9.615, de 24 de março de 1998, para sujeitar os dirigentes de entidades desportivas profissionais à responsabilização civil, se houver antecipação de receitas, por meio da formalização de contratos, cujos vencimentos sejam posteriores ao término de seus mandatos."
+	},
+	{
+		"entity": "PROPOSITION#996599",
+		"data": "METADATA#996599",
+		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996599",
+		"ementa": "Solicita a inclusão em extrapauta do requerimento que \"Requer seja realizado encontro desta Comissão durante a Expodireto Cotrijal 2015, no município de Não Me Toque, estado do Rio Grande do Sul\"."
+	}
+]

@@ -1,0 +1,16 @@
+DynamoTable:
+  AttributeDefinitions:
+    - AttributeName: 'entity'
+      AttributeType: 'S'
+    - AttributeName: 'data'
+      AttributeType: 'S'
+  KeySchema:
+    - AttributeName: 'entity'
+      KeyType: HASH
+    - AttributeName: 'data'
+      KeyType: RANGE
+  ProvisionedThroughput:
+    ReadCapacityUnits: 1
+    WriteCapacityUnits: 25
+  TableName: ${self:custom.dynamo-table}
+  
