@@ -15,12 +15,11 @@
 		"strict": true,
 		"allowSyntheticDefaultImports": true,
 		"esModuleInterop": true,
-		"forceConsistentCasingInFileNames": true,
-		"baseUrl": "./src",
-		"paths": {
-			"@shared/*": ["shared/*"],
-			"@modules": ["modules/"]
-		}
+		"forceConsistentCasingInFileNames": true
+		// "paths": {
+		// 	"@shared/*": ["shared/*"],
+		// 	"@modules": ["modules/"]
+		// },
 	},
 	"exclude": ["node_modules"]
 }

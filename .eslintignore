@@ -1,2 +1,5 @@
 .build
 **/*.yml
+**/*.js
+**/*.json
+**/*.db

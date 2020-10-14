@@ -35,11 +35,12 @@
 			"warn",
 			{
 				"newlinesBetween": "always",
-				"groups": ["module", "/^core/", "/^util/", ["parent", "sibling", "index"]],
+				"groups": ["module", "/^shared/", "/^modules/", "/^util/", ["parent", "sibling", "index"]],
 				"alphabetize": { "order": "asc", "ignoreCase": true }
 			}
 		],
 		"no-unused-vars": "off",
+		"no-useless-constructor": "off",
 		"unused-imports/no-unused-imports": "error",
 		"unused-imports/no-unused-vars": [
 			"warn",
