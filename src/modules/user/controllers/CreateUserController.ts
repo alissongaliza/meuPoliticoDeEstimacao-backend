@@ -6,10 +6,12 @@ import { HttpRequestService } from '../../../shared/infra/http/helpers/requestHa
 import { CreateUserDTO } from '../entities/UserDTO';
 import { userSchema } from '../entities/UserSchema';
 import { CreateUserRepository } from '../repository/concrete/dynamodb/CreateUserRepository';
+import { GetByIdUserRepository } from '../repository/concrete/dynamodb/GetByIdUserRepository';
 import { CreateUserUsecase } from '../usecase/concrete/CreateUserUsecase';
 
 const createUserRepository = new CreateUserRepository();
-const createUserUsecase = new CreateUserUsecase(createUserRepository);
+const getByIdUserRepository = new GetByIdUserRepository();
+const createUserUsecase = new CreateUserUsecase(createUserRepository, getByIdUserRepository);
 
 export const addUser: APIGatewayProxyHandler = async (event): Promise<any> => {
 	const requestHandler = new HttpRequestService();

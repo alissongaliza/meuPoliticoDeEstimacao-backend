@@ -1,7 +1,7 @@
 import Joi from 'joi';
 
 import { BaseHttpError } from '../errors/base_http_error';
-import { InvalidJsonException, InvalidParamsException, NullBodyException } from '../errors/http_client_error';
+import { InvalidParamsException, NullBodyException } from '../errors/http_client_error';
 
 const headers = { 'Access-Control-Allow-Origin': '*' };
 
@@ -11,13 +11,8 @@ const headers = { 'Access-Control-Allow-Origin': '*' };
 export class HttpRequestService {
 	validateBody(body: any, validator: Joi.ObjectSchema<any>): Promise<any> {
 		return new Promise((resolve) => {
-			if (body === null) {
+			if (!body) {
 				throw new NullBodyException();
-			}
-			try {
-				body = JSON.parse(body);
-			} catch {
-				throw new InvalidJsonException(body);
 			}
 			const validationResult = validator.validate(body);
 			if (validationResult.errors) throw new InvalidParamsException(validationResult.errors);
