@@ -17,3 +17,12 @@ export class NotImplementedMethodException extends BaseHttpError {
 		super('HTTP_ERROR_NOT_IMPLEMENTED_METHOD', 500, 2, data);
 	}
 }
+
+/**
+ * Exception for generic database error.
+ */
+export class GenericDatabaseException extends BaseHttpError {
+	constructor(data: any) {
+		super('GENERIC_DATABASE_ERROR', 500, 3, data);
+	}
+}
