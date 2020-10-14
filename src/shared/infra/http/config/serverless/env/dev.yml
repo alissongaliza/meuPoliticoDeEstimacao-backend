@@ -1,0 +1,7 @@
+ENV: dev
+MESSAGE: 'Development environment'
+DB_TABLE: ${self:custom.dynamo-table}
+DB_ENDPOINT: 'http://localhost:${self:custom.dynamodb.start.port}'
+REGION: ${self:custom.region}
+DYNAMODB_SCAN_DEFAULT_SIZE: 10000
+PAGINATION_DEFAULT_SIZE: 20

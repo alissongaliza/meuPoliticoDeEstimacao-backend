@@ -1,5 +1,5 @@
 Resources:
-  PropositionTable:
+  DynamoTable:
     Type: 'AWS::DynamoDB::Table'
     DeletionPolicy: Retain
     Properties:
@@ -15,5 +15,5 @@ Resources:
           KeyType: RANGE
       ProvisionedThroughput:
         ReadCapacityUnits: 1
-        WriteCapacityUnits: 1
-      TableName: ${self:custom.dynamo-proposition}
+        WriteCapacityUnits: 25
+      TableName: ${self:custom.dynamo-table}

@@ -5,11 +5,11 @@ frameworkVersion: '2'
 provider:
   name: aws
   runtime: nodejs10.x
-  stage: dev
+  stage: ${opt:stage, 'dev'}
   region: us-east-1
-  environment:
-    USER_TABLE: ${self:service}-${opt:stage, self:provider.stage}
-    PROPOSITION_TABLE: ${self:service}-${opt:stage, self:provider.stage}
+  memorySize: 128
+  endpointType: regional
+  environment: ${file(src/shared/infra/http/config/serverless/env/${self:provider.stage}.yml)}
 
   iamRoleStatements:
     # proposition/politician table
@@ -19,25 +19,34 @@ provider:
         - dynamodb:Scan
         - dynamodb:GetItem
         - dynamodb:PutItem
-      Resource: 'arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.PROPOSITION_TABLE}'
-    # user table
-    - Effect: 'Allow'
-      Action:
-        - dynamodb:Query
-        - dynamodb:Scan
-        - dynamodb:GetItem
-        - dynamodb:PutItem
-      Resource: 'arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.USER_TABLE}'
+      Resource: 'arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.DB_TABLE}'
 
 custom:
+  region: ${self:provider.region}
   stage: ${opt:stage, self:provider.stage}
   prefix: ${self:custom.stage}-${self:service}
-  dynamo-proposition: ${self:custom.prefix}-proposition
-  dynamo-user: ${self:custom.prefix}-user
+  dynamo-table: ${self:custom.prefix}-table
+
+  dynamodb:
+    stages:
+      - dev
+    start:
+      port: 8000
+      migration:
+        dir: 'src/shared/infra/http/config/serverless/migration'
+      convertEmptyValues: true
+      dbPath: 'src/shared/infra/dynamodb/'
+      # seed: true
+    seed:
+      dev:
+        sources:
+          - table: ${self:custom.dynamo-table}
+            sources: [src/shared/infra/dynamodb/seed.json]
 
 plugins:
   - serverless-offline
   - serverless-plugin-typescript
+  - serverless-dynamodb-local
 
 resources: ${file(src/shared/infra/http/config/serverless/resources.yml)}
 
