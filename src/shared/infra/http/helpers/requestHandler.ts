@@ -20,7 +20,7 @@ export class HttpRequestService {
 				throw new InvalidJsonException(body);
 			}
 			const validationResult = validator.validate(body);
-			if (validationResult.errors) throw new InvalidParamsException(validationResult.errors);
+			if (validationResult.error) throw new InvalidParamsException(validationResult.error);
 
 			resolve(body);
 		});

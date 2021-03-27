@@ -3,7 +3,7 @@
 		"es6": true,
 		"node": true
 	},
-	"extends": ["standard", "plugin:@typescript-eslint/recommended", "prettier/@typescript-eslint"],
+	"extends": ["standard", "plugin:@typescript-eslint/recommended", "prettier"],
 	"globals": {
 		"Atomics": "readonly",
 		"SharedArrayBuffer": "readonly"
@@ -13,7 +13,7 @@
 		"ecmaVersion": 11,
 		"sourceType": "module"
 	},
-	"plugins": ["@typescript-eslint", "unused-imports", "eslint-plugin-import-helpers"],
+	"plugins": ["unused-imports", "eslint-plugin-import-helpers"],
 	"rules": {
 		"indent": [
 			"error",
