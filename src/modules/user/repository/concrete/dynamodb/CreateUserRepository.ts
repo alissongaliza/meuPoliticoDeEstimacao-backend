@@ -1,5 +1,4 @@
 import { DocumentClient } from 'aws-sdk/clients/dynamodb';
-import * as uuid from 'uuid';
 
 import { DynamoDBInstance } from '../../../../../shared/infra/dynamodb/DynamoDBInstance';
 import { User } from '../../../entities/User';
@@ -9,8 +8,8 @@ import { ICreateUserRepository } from '../../interface/ICreateUserRepository';
 export class CreateUserRepository implements ICreateUserRepository {
 	async create(data: CreateUserDTO): Promise<User> {
 		const formattedUser = {
-			entity: `USER#${uuid.v4()}`,
-			data: `METADATA#${data.name}`,
+			pk: `USER#${data.name}`,
+			sk: `USER#${data.name}`,
 			favoriteThemes: data.favoriteThemes,
 		};
 		const params: DocumentClient.PutItemInput = {
