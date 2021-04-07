@@ -3,14 +3,15 @@
 		"PK": "THEMES",
 		"SK": "THEMES",
 		"themes": [
-			{ "PK": "POLITICIAN#39", "name": "Esporte e Lazer" },
-			{ "PK": "POLITICIAN#42", "name": "Direito Civil e Processual Civil" },
-			{ "PK": "POLITICIAN#43", "name": "Direito Penal e Processual Penal" },
-			{ "PK": "POLITICIAN#50", "name": "Fake" }
+			{ "id": "39", "name": "Esporte e Lazer" },
+			{ "id": "42", "name": "Direito Civil e Processual Civil" },
+			{ "id": "43", "name": "Direito Penal e Processual Penal" },
+			{ "id": "50", "name": "Fake" }
 		]
 	},
 	{
 		"PK": "THEME#39",
+		"SK": "THEME#39",
 		"name": "Esporte e Lazer"
 	},
 	{
@@ -28,44 +29,12 @@
 		"SK": "POLITICIAN#204453"
 	},
 	{
-		"PK": "PROPOSITION#1049173",
-		"SK": "POLITICIAN#204453"
-	},
-	{
-		"PK": "PROPOSITION#1049173",
-		"SK": "POLITICIAN#204453"
-	},
-	{
-		"PK": "PROPOSITION#1197875",
-		"SK": "POLITICIAN#204453"
-	},
-	{
-		"PK": "PROPOSITION#1197875",
-		"SK": "POLITICIAN#204453"
-	},
-	{
 		"PK": "PROPOSITION#1197875",
 		"SK": "POLITICIAN#204453"
 	},
 	{
 		"PK": "PROPOSITION#1199857",
 		"SK": "POLITICIAN#204453"
-	},
-	{
-		"PK": "PROPOSITION#1199857",
-		"SK": "POLITICIAN#204453"
-	},
-	{
-		"PK": "PROPOSITION#1199857",
-		"SK": "POLITICIAN#204453"
-	},
-	{
-		"PK": "PROPOSITION#1199857",
-		"SK": "POLITICIAN#204362"
-	},
-	{
-		"PK": "PROPOSITION#1199857",
-		"SK": "POLITICIAN#133374"
 	},
 	{
 		"PK": "PROPOSITION#1212722",
