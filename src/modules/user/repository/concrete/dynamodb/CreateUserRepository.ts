@@ -8,8 +8,8 @@ import { ICreateUserRepository } from '../../interface/ICreateUserRepository';
 export class CreateUserRepository implements ICreateUserRepository {
 	async create(data: CreateUserDTO): Promise<User> {
 		const formattedUser = {
-			pk: `USER#${data.name}`,
-			sk: `USER#${data.name}`,
+			PK: `USER#${data.name}`,
+			SK: `USER#${data.name}`,
 			favoriteThemes: data.favoriteThemes,
 		};
 		const params: DocumentClient.PutItemInput = {
