@@ -4,14 +4,14 @@ Resources:
     DeletionPolicy: Retain
     Properties:
       AttributeDefinitions:
-        - AttributeName: 'entity'
+        - AttributeName: 'PK'
           AttributeType: 'S'
-        - AttributeName: 'data'
+        - AttributeName: 'SK'
           AttributeType: 'S'
       KeySchema:
-        - AttributeName: 'entity'
+        - AttributeName: 'PK'
           KeyType: HASH
-        - AttributeName: 'data'
+        - AttributeName: 'SK'
           KeyType: RANGE
       ProvisionedThroughput:
         ReadCapacityUnits: 1
