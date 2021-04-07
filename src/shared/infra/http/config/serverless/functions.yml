@@ -16,3 +16,16 @@ addUser:
         method: post
         cors:
           origin: '*'
+getUser:
+  handler: src/modules/user/controllers/GetUserController.getUser
+  description: Get User
+  events:
+    - http:
+        path: users/{name}
+        method: get
+        request:
+          parameters:
+            paths:
+              name: true
+        cors:
+          origin: '*'
