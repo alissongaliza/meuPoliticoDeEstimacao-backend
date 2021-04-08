@@ -5,8 +5,8 @@
 ### Access patterns
 
 - :dart: Main
-  - [ ] Create user
-  - [ ] Find user
+  - [x] Create user
+  - [x] Find user
   - [ ] Rank 3 favorite themes
   - [ ] Create theme
   - [ ] List themes
