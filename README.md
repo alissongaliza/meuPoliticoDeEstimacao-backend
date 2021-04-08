@@ -28,7 +28,7 @@
   - [ ] Find theme and list its politicians ordered by relevance in theme
     - Most contributions by period (last `x` years)
 
-### Entity chart
+### Dynamodb Entity chart
 
 | Entity | PK | SK |
 | :------------ |:--------------| :-----|
