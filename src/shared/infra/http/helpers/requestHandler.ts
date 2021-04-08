@@ -37,6 +37,14 @@ export class HttpRequestService {
 		});
 	}
 
+	created(): Promise<any> {
+		return Promise.resolve({
+			statusCode: 201,
+			headers: headers,
+			body: null,
+		});
+	}
+
 	error(error: BaseHttpError): Promise<any> {
 		return Promise.resolve({
 			headers: headers,
@@ -45,6 +53,16 @@ export class HttpRequestService {
 				message: error.message,
 				errorCode: error.errorCode,
 				data: error.data,
+			}),
+		});
+	}
+
+	customError(statusCode: number, message?: string): Promise<any> {
+		return Promise.resolve({
+			headers: headers,
+			statusCode,
+			body: JSON.stringify({
+				message,
 			}),
 		});
 	}
