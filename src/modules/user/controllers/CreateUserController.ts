@@ -17,7 +17,7 @@ export const addUser: APIGatewayProxyHandler = async (event): Promise<any> => {
 		const body: CreateUserDTO = await requestHandler.validateBody(event.body, userSchema);
 		const created = await createUserUsecase.create(body);
 		if (created) {
-			requestHandler.success({}, 201);
+			return requestHandler.created();
 		}
 	} catch (error) {
 		if (error instanceof BaseHttpError) return requestHandler.error(error);
