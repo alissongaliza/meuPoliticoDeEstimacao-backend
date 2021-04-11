@@ -1,5 +1,5 @@
-import { Theme } from '../../entities/Theme';
-import { IListThemesRepository } from '../../repository/interface/IListThemesRepository';
+import { Theme } from '../entities/Theme';
+import { IListThemesRepository } from '../repository/interface/IListThemesRepository';
 
 export class ListThemesUsecase {
 	constructor(private readonly listThemesRepository: IListThemesRepository) {}

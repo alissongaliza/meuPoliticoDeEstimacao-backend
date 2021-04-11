@@ -5,7 +5,7 @@ import { InternalServerException } from '../../../shared/infra/http/errors/http_
 import { HttpRequestService } from '../../../shared/infra/http/helpers/requestHandler';
 import { ListThemesRepository } from '../repository/concrete/dynamodb/ListThemesRepository';
 import { IListThemesRepository } from '../repository/interface/IListThemesRepository';
-import { ListThemesUsecase } from '../usecase/concrete/ListThemesUsecase';
+import { ListThemesUsecase } from '../usecase/ListThemesUsecase';
 
 const listThemesRepository: IListThemesRepository = new ListThemesRepository();
 const listThemesUsecase = new ListThemesUsecase(listThemesRepository);
