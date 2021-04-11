@@ -29,3 +29,12 @@ getUser:
               name: true
         cors:
           origin: '*'
+listThemes:
+  handler: src/modules/theme/controllers/ListThemesController.listThemes
+  description: List themes
+  events:
+    - http:
+        path: themes
+        method: get
+        cors:
+          origin: '*'
