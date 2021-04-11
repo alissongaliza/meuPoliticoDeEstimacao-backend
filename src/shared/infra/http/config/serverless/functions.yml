@@ -42,6 +42,19 @@ rankThemes:
           parameters:
             paths:
               id: true
+getThemeAndNewestPropositions:
+  handler: src/modules/theme/controllers/GetThemeAndNewestPropositionsController.getThemeAndNewestPropositions
+  description: Get ThemeAndNewestPropositions
+  events:
+    - http:
+        path: themes/{id}/proposition
+        method: get
+        request:
+          parameters:
+            paths:
+              id: true
+        cors:
+          origin: '*'
 listThemes:
   handler: src/modules/theme/controllers/ListThemesController.listThemes
   description: List themes
