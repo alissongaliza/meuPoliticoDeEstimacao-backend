@@ -7,13 +7,13 @@
 - :dart: Main
   - [x] Create user
   - [x] Find user
-  - [ ] Rank 3 favorite themes
+  - [x] Rank 3 favorite themes
   - [ ] Create theme
-  - [ ] List themes
-  - [ ] Find theme and list its newest propositions
-  - [ ] Find theme and list its politicians ordered by relevance in theme
+  - [x] List themes
+  - [X] Find theme and list its newest propositions
+  - [ ] [Needs processing]Find theme and list its politicians ordered by relevance in theme
     - Most propositions overall
-  - [ ] Show rank stat of theme
+  - [x] Show rank stat of theme
     - Most relevant themes among users (show a #1/2/3 by the theme name)
   - [ ] Create proposition
   - [ ] Find proposition and list its authors
@@ -44,8 +44,8 @@
 
 | Entity | GSI1PK | GSI1SK |
 | :------------ |:--------------| :-----|
-|PropositionAuthor | AUTHOR#\<AuthorName>| PROPOSITION#\<PropositionName>|
-|PropositionTheme | THEME#\<ThemeName>| PROPOSITION#\<PropositionName>|
+|AuthorPropositions | AUTHOR#\<AuthorName>| PROPOSITION#\<PropositionName>|
+|ThemePropositions | THEME#\<ThemeName>| PROPOSITION#\<PropositionName>|
 
 <!-- | Entity | GSI2PK | GSI2SK |
 | :------------ |:--------------| :-----| -->
