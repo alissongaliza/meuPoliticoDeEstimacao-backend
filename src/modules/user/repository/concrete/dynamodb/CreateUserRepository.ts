@@ -1,7 +1,7 @@
 import { DocumentClient } from 'aws-sdk/clients/dynamodb';
 
 import { DynamoDBInstance } from '../../../../../shared/infra/dynamodb/DynamoDBInstance';
-import { CreateUserDTO } from '../../../entities/UserDTO';
+import { CreateUserDTO } from '../../../entities/DTO';
 import { UserDynamodb } from '../../../entities/UserDynamodb';
 import { ICreateUserRepository } from '../../interface/ICreateUserRepository';
 

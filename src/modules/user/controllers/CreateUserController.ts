@@ -3,12 +3,13 @@ import { APIGatewayProxyHandler } from 'aws-lambda';
 import { BaseHttpError } from '../../../shared/infra/http/errors/base_http_error';
 import { InternalServerException } from '../../../shared/infra/http/errors/http_server_error';
 import { HttpRequestService } from '../../../shared/infra/http/helpers/requestHandler';
-import { CreateUserDTO } from '../entities/UserDTO';
-import { userSchema } from '../entities/UserSchema';
+import { CreateUserDTO } from '../entities/DTO';
+import { userSchema } from '../entities/Schema';
 import { CreateUserRepository } from '../repository/concrete/dynamodb/CreateUserRepository';
-import { CreateUserUsecase } from '../usecase/concrete/CreateUserUsecase';
+import { ICreateUserRepository } from '../repository/interface/ICreateUserRepository';
+import { CreateUserUsecase } from '../usecase/CreateUserUsecase';
 
-const createUserRepository = new CreateUserRepository();
+const createUserRepository: ICreateUserRepository = new CreateUserRepository();
 const createUserUsecase = new CreateUserUsecase(createUserRepository);
 
 export const addUser: APIGatewayProxyHandler = async (event): Promise<any> => {

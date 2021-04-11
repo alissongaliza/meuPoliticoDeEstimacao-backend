@@ -26,14 +26,11 @@ export class HttpRequestService {
 		});
 	}
 
-	success(body: any = {}, httpStatus = 200, message = 'HTTP_SUCCESS_DEFAULT'): Promise<any> {
+	success(httpStatus = 200, body: unknown = ''): Promise<any> {
 		return Promise.resolve({
 			statusCode: httpStatus,
 			headers: headers,
-			body: JSON.stringify({
-				message: message,
-				data: body,
-			}),
+			body: JSON.stringify(body),
 		});
 	}
 
@@ -57,13 +54,11 @@ export class HttpRequestService {
 		});
 	}
 
-	customError(statusCode: number, message?: string): Promise<any> {
+	customError(statusCode: number, message = ''): Promise<any> {
 		return Promise.resolve({
 			headers: headers,
 			statusCode,
-			body: JSON.stringify({
-				message,
-			}),
+			body: message,
 		});
 	}
 
