@@ -29,6 +29,19 @@ getUser:
               name: true
         cors:
           origin: '*'
+rankThemes:
+  handler: src/modules/user/controllers/RankThemesController.rankThemes
+  description: Rank themes
+  events:
+    - http:
+        path: users/{id}/themes
+        method: post
+        cors:
+          origin: '*'
+        request:
+          parameters:
+            paths:
+              id: true
 listThemes:
   handler: src/modules/theme/controllers/ListThemesController.listThemes
   description: List themes
