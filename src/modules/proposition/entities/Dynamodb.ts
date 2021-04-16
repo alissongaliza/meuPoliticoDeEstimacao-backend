@@ -1,6 +1,7 @@
 export interface PropositionDynamodb {
 	PK: string;
 	SK: string;
-	GSI1PK: string;
-	GSI1SK: string;
+	id?: string;
+	uri?: string;
+	ementa?: string;
 }

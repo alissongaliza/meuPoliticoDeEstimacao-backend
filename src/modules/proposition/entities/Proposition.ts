@@ -1,13 +1,22 @@
+import { Politician } from '../../politician/entities/Politician';
+import { Theme } from '../../theme/entities/Theme';
+
 export class Proposition {
 	private constructor(
 		private _id: string,
 		private _uri: string,
 		private _ementa: string,
-		private _authors: [],
-		private _themes: []
+		private _authors: Politician[],
+		private _themes: Theme[]
 	) {}
 
-	static create(id: string, uri: string, ementa: string, authors: [] = [], themes: [] = []): Proposition {
+	static create(
+		id: string,
+		uri: string,
+		ementa: string,
+		authors: Politician[] = [],
+		themes: Theme[] = []
+	): Proposition {
 		return new Proposition(id, uri, ementa, authors, themes);
 	}
 
@@ -35,19 +44,19 @@ export class Proposition {
 		this._ementa = ementa;
 	}
 
-	get authors(): [] {
+	get authors(): Politician[] {
 		return this._authors;
 	}
 
-	set authors(authors: []) {
+	set authors(authors: Politician[]) {
 		this._authors = authors;
 	}
 
-	get themes(): [] {
+	get themes(): Theme[] {
 		return this._themes;
 	}
 
-	set themes(themes: []) {
+	set themes(themes: Theme[]) {
 		this._themes = themes;
 	}
 }
