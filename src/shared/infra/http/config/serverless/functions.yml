@@ -64,3 +64,16 @@ listThemes:
         method: get
         cors:
           origin: '*'
+getPropositionAndListAuthors:
+  handler: src/modules/proposition/controllers/GetPropositionAndListAuthorsController.getPropositionAndListAuthors
+  description: Get PropositionAndListAuthors
+  events:
+    - http:
+        path: propositions/{id}/authors
+        method: get
+        request:
+          parameters:
+            paths:
+              id: true
+        cors:
+          origin: '*'
