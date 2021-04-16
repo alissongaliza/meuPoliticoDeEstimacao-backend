@@ -32,771 +32,1203 @@
 	},
 	{
 		"PK": "PROPOSITION#1049173",
-		"SK": "POLITICIAN#204453"
+		"SK": "POLITICIAN#204453",
+		"politicianId": "204453",
+		"propositionId": "1049173"
 	},
 	{
 		"PK": "PROPOSITION#1197875",
-		"SK": "POLITICIAN#204453"
+		"SK": "POLITICIAN#204453",
+		"politicianId": "204453",
+		"propositionId": "1197875"
 	},
 	{
 		"PK": "PROPOSITION#1199857",
-		"SK": "POLITICIAN#204453"
+		"SK": "POLITICIAN#204453",
+		"politicianId": "204453",
+		"propositionId": "1199857"
 	},
 	{
 		"PK": "PROPOSITION#1212722",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1212722"
 	},
 	{
 		"PK": "PROPOSITION#1215517",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1215517"
 	},
 	{
 		"PK": "PROPOSITION#1215518",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1215518"
 	},
 	{
 		"PK": "PROPOSITION#1215873",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1215873"
 	},
 	{
 		"PK": "PROPOSITION#1216072",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1216072"
 	},
 	{
 		"PK": "PROPOSITION#1228126",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1228126"
 	},
 	{
 		"PK": "PROPOSITION#1228202",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1228202"
 	},
 	{
 		"PK": "PROPOSITION#1228203",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1228203"
 	},
 	{
 		"PK": "PROPOSITION#1228467",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1228467"
 	},
 	{
 		"PK": "PROPOSITION#1228889",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1228889"
 	},
 	{
 		"PK": "PROPOSITION#1229358",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1229358"
 	},
 	{
 		"PK": "PROPOSITION#1229359",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1229359"
 	},
 	{
 		"PK": "PROPOSITION#1229360",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1229360"
 	},
 	{
 		"PK": "PROPOSITION#1230269",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1230269"
 	},
 	{
 		"PK": "PROPOSITION#1279636",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1279636"
 	},
 	{
 		"PK": "PROPOSITION#1279705",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1279705"
 	},
 	{
 		"PK": "PROPOSITION#1280234",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1280234"
 	},
 	{
 		"PK": "PROPOSITION#1280235",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1280235"
 	},
 	{
 		"PK": "PROPOSITION#1297462",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1297462"
 	},
 	{
 		"PK": "PROPOSITION#1301110",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1301110"
 	},
 	{
 		"PK": "PROPOSITION#1301111",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1301111"
 	},
 	{
 		"PK": "PROPOSITION#1301116",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1301116"
 	},
 	{
 		"PK": "PROPOSITION#1301119",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1301119"
 	},
 	{
 		"PK": "PROPOSITION#1301134",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1301134"
 	},
 	{
 		"PK": "PROPOSITION#1307254",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1307254"
 	},
 	{
 		"PK": "PROPOSITION#1307255",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1307255"
 	},
 	{
 		"PK": "PROPOSITION#1307540",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1307540"
 	},
 	{
 		"PK": "PROPOSITION#1549124",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1549124"
 	},
 	{
 		"PK": "PROPOSITION#1549268",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1549268"
 	},
 	{
 		"PK": "PROPOSITION#1555259",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1555259"
 	},
 	{
 		"PK": "PROPOSITION#1579565",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1579565"
 	},
 	{
 		"PK": "PROPOSITION#1579569",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1579569"
 	},
 	{
 		"PK": "PROPOSITION#1585028",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1585028"
 	},
 	{
 		"PK": "PROPOSITION#1614762",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1614762"
 	},
 	{
 		"PK": "PROPOSITION#1618350",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1618350"
 	},
 	{
 		"PK": "PROPOSITION#1635551",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1635551"
 	},
 	{
 		"PK": "PROPOSITION#1635678",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1635678"
 	},
 	{
 		"PK": "PROPOSITION#1672199",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1672199"
 	},
 	{
 		"PK": "PROPOSITION#1693024",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1693024"
 	},
 	{
 		"PK": "PROPOSITION#1700604",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1700604"
 	},
 	{
 		"PK": "PROPOSITION#1701156",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1701156"
 	},
 	{
 		"PK": "PROPOSITION#1701158",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1701158"
 	},
 	{
 		"PK": "PROPOSITION#1701174",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1701174"
 	},
 	{
 		"PK": "PROPOSITION#1712779",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1712779"
 	},
 	{
 		"PK": "PROPOSITION#1715648",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1715648"
 	},
 	{
 		"PK": "PROPOSITION#1715692",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1715692"
 	},
 	{
 		"PK": "PROPOSITION#1724659",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1724659"
 	},
 	{
 		"PK": "PROPOSITION#1734338",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1734338"
 	},
 	{
 		"PK": "PROPOSITION#1734339",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1734339"
 	},
 	{
 		"PK": "PROPOSITION#1734340",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1734340"
 	},
 	{
 		"PK": "PROPOSITION#1734341",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1734341"
 	},
 	{
 		"PK": "PROPOSITION#1741174",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1741174"
 	},
 	{
 		"PK": "PROPOSITION#1744996",
-		"SK": "POLITICIAN#204554"
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1744996"
 	},
 	{
 		"PK": "PROPOSITION#1748911",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1748911"
 	},
 	{
 		"PK": "PROPOSITION#1755997",
-		"SK": "POLITICIAN#133374"
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1755997"
 	},
 	{
 		"PK": "PROPOSITION#1805325",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "1805325"
 	},
 	{
 		"PK": "PROPOSITION#1805399",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "1805399"
 	},
 	{
 		"PK": "PROPOSITION#1805401",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "1805401"
 	},
 	{
 		"PK": "PROPOSITION#1806262",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "1806262"
 	},
 	{
 		"PK": "PROPOSITION#1806309",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "1806309"
 	},
 	{
 		"PK": "PROPOSITION#2002081",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2002081"
 	},
 	{
 		"PK": "PROPOSITION#2017615",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2017615"
 	},
 	{
 		"PK": "PROPOSITION#2017980",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2017980"
 	},
 	{
 		"PK": "PROPOSITION#2018314",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2018314"
 	},
 	{
 		"PK": "PROPOSITION#2024254",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2024254"
 	},
 	{
 		"PK": "PROPOSITION#2024255",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2024255"
 	},
 	{
 		"PK": "PROPOSITION#2025941",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2025941"
 	},
 	{
 		"PK": "PROPOSITION#2052403",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2052403"
 	},
 	{
 		"PK": "PROPOSITION#2054475",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2054475"
 	},
 	{
 		"PK": "PROPOSITION#2054512",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2054512"
 	},
 	{
 		"PK": "PROPOSITION#2054513",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2054513"
 	},
 	{
 		"PK": "PROPOSITION#2055507",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2055507"
 	},
 	{
 		"PK": "PROPOSITION#2055510",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2055510"
 	},
 	{
 		"PK": "PROPOSITION#2056280",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2056280"
 	},
 	{
 		"PK": "PROPOSITION#2057787",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2057787"
 	},
 	{
 		"PK": "PROPOSITION#2058289",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2058289"
 	},
 	{
 		"PK": "PROPOSITION#2058358",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2058358"
 	},
 	{
 		"PK": "PROPOSITION#2074580",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2074580"
 	},
 	{
 		"PK": "PROPOSITION#2076997",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2076997"
 	},
 	{
 		"PK": "PROPOSITION#2076998",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2076998"
 	},
 	{
 		"PK": "PROPOSITION#2077008",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2077008"
 	},
 	{
 		"PK": "PROPOSITION#2077009",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2077009"
 	},
 	{
 		"PK": "PROPOSITION#2077520",
-		"SK": "POLITICIAN#204362"
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "2077520"
 	},
 	{
 		"PK": "PROPOSITION#2077691",
-		"SK": "POLITICIAN#74161"
+		"SK": "POLITICIAN#74161",
+		"politicianId": "74161",
+		"propositionId": "2077691"
 	},
 	{
 		"PK": "PROPOSITION#2082855",
-		"SK": "POLITICIAN#74161"
+		"SK": "POLITICIAN#74161",
+		"politicianId": "74161",
+		"propositionId": "2082855"
 	},
 	{
 		"PK": "PROPOSITION#2085884",
-		"SK": "POLITICIAN#74161"
+		"SK": "POLITICIAN#74161",
+		"politicianId": "74161",
+		"propositionId": "2085884"
 	},
 	{
 		"PK": "PROPOSITION#2086770",
-		"SK": "POLITICIAN#74161"
+		"SK": "POLITICIAN#74161",
+		"politicianId": "74161",
+		"propositionId": "2086770"
 	},
 	{
 		"PK": "PROPOSITION#2087137",
-		"SK": "POLITICIAN#74161"
+		"SK": "POLITICIAN#74161",
+		"politicianId": "74161",
+		"propositionId": "2087137"
 	},
 	{
 		"PK": "PROPOSITION#2087138",
-		"SK": "POLITICIAN#74161"
+		"SK": "POLITICIAN#74161",
+		"politicianId": "74161",
+		"propositionId": "2087138"
 	},
 	{
 		"PK": "PROPOSITION#1216072",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1216072"
 	},
 	{
 		"PK": "PROPOSITION#1228623",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1228623"
 	},
 	{
 		"PK": "PROPOSITION#1266562",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1266562"
 	},
 	{
 		"PK": "PROPOSITION#1266566",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1266566"
 	},
 	{
 		"PK": "PROPOSITION#1279076",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1279076"
 	},
 	{
 		"PK": "PROPOSITION#1279099",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1279099"
 	},
 	{
 		"PK": "PROPOSITION#1280816",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1280816"
 	},
 	{
 		"PK": "PROPOSITION#1299765",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1299765"
 	},
 	{
 		"PK": "PROPOSITION#1618350",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1618350"
 	},
 	{
 		"PK": "PROPOSITION#1701529",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1701529"
 	},
 	{
 		"PK": "PROPOSITION#1701531",
-		"SK": "POLITICIAN#204390"
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1701531"
 	},
 	{
 		"PK": "PROPOSITION#1732959",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "1732959"
 	},
 	{
 		"PK": "PROPOSITION#1755997",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "1755997"
 	},
 	{
 		"PK": "PROPOSITION#2024470",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2024470"
 	},
 	{
 		"PK": "PROPOSITION#2053605",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2053605"
 	},
 	{
 		"PK": "PROPOSITION#2053606",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2053606"
 	},
 	{
 		"PK": "PROPOSITION#2074976",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2074976"
 	},
 	{
 		"PK": "PROPOSITION#2077435",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2077435"
 	},
 	{
 		"PK": "PROPOSITION#2080498",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2080498"
 	},
 	{
 		"PK": "PROPOSITION#2080499",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2080499"
 	},
 	{
 		"PK": "PROPOSITION#2082694",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2082694"
 	},
 	{
 		"PK": "PROPOSITION#2091470",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2091470"
 	},
 	{
 		"PK": "PROPOSITION#2092769",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2092769"
 	},
 	{
 		"PK": "PROPOSITION#2095330",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2095330"
 	},
 	{
 		"PK": "PROPOSITION#2095331",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2095331"
 	},
 	{
 		"PK": "PROPOSITION#2095332",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2095332"
 	},
 	{
 		"PK": "PROPOSITION#2095339",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2095339"
 	},
 	{
 		"PK": "PROPOSITION#2095340",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2095340"
 	},
 	{
 		"PK": "PROPOSITION#2095341",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2095341"
 	},
 	{
 		"PK": "PROPOSITION#2095404",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2095404"
 	},
 	{
 		"PK": "PROPOSITION#2095405",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2095405"
 	},
 	{
 		"PK": "PROPOSITION#2095406",
-		"SK": "POLITICIAN#215045"
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "2095406"
 	},
 	{
 		"PK": "PROPOSITION#2095407",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2095407"
 	},
 	{
 		"PK": "PROPOSITION#2095408",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2095408"
 	},
 	{
 		"PK": "PROPOSITION#2095409",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2095409"
 	},
 	{
 		"PK": "PROPOSITION#2095410",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2095410"
 	},
 	{
 		"PK": "PROPOSITION#2095411",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2095411"
 	},
 	{
 		"PK": "PROPOSITION#2095412",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2095412"
 	},
 	{
 		"PK": "PROPOSITION#2095413",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2095413"
 	},
 	{
 		"PK": "PROPOSITION#2110163",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2110163"
 	},
 	{
 		"PK": "PROPOSITION#2111175",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111175"
 	},
 	{
 		"PK": "PROPOSITION#2111196",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111196"
 	},
 	{
 		"PK": "PROPOSITION#2111197",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111197"
 	},
 	{
 		"PK": "PROPOSITION#2111198",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111198"
 	},
 	{
 		"PK": "PROPOSITION#2111305",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111305"
 	},
 	{
 		"PK": "PROPOSITION#2111655",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111655"
 	},
 	{
 		"PK": "PROPOSITION#2111656",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111656"
 	},
 	{
 		"PK": "PROPOSITION#2111657",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111657"
 	},
 	{
 		"PK": "PROPOSITION#2111658",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111658"
 	},
 	{
 		"PK": "PROPOSITION#2111860",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2111860"
 	},
 	{
 		"PK": "PROPOSITION#2113111",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2113111"
 	},
 	{
 		"PK": "PROPOSITION#2113243",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2113243"
 	},
 	{
 		"PK": "PROPOSITION#2113246",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2113246"
 	},
 	{
 		"PK": "PROPOSITION#2113247",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2113247"
 	},
 	{
 		"PK": "PROPOSITION#2113248",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2113248"
 	},
 	{
 		"PK": "PROPOSITION#2113249",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2113249"
 	},
 	{
 		"PK": "PROPOSITION#2113250",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2113250"
 	},
 	{
 		"PK": "PROPOSITION#2113355",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2113355"
 	},
 	{
 		"PK": "PROPOSITION#2113954",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2113954"
 	},
 	{
 		"PK": "PROPOSITION#2115440",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2115440"
 	},
 	{
 		"PK": "PROPOSITION#2115441",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2115441"
 	},
 	{
 		"PK": "PROPOSITION#2115443",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2115443"
 	},
 	{
 		"PK": "PROPOSITION#2115445",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2115445"
 	},
 	{
 		"PK": "PROPOSITION#2115446",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2115446"
 	},
 	{
 		"PK": "PROPOSITION#2115447",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2115447"
 	},
 	{
 		"PK": "PROPOSITION#2116444",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2116444"
 	},
 	{
 		"PK": "PROPOSITION#2116469",
-		"SK": "POLITICIAN#204538"
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "2116469"
 	},
 	{
 		"PK": "PROPOSITION#2118244",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2118244"
 	},
 	{
 		"PK": "PROPOSITION#2119104",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119104"
 	},
 	{
 		"PK": "PROPOSITION#2119105",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119105"
 	},
 	{
 		"PK": "PROPOSITION#2119106",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119106"
 	},
 	{
 		"PK": "PROPOSITION#2119107",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119107"
 	},
 	{
 		"PK": "PROPOSITION#2119108",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119108"
 	},
 	{
 		"PK": "PROPOSITION#2119109",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119109"
 	},
 	{
 		"PK": "PROPOSITION#2119110",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119110"
 	},
 	{
 		"PK": "PROPOSITION#2119111",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119111"
 	},
 	{
 		"PK": "PROPOSITION#2119112",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119112"
 	},
 	{
 		"PK": "PROPOSITION#2119113",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119113"
 	},
 	{
 		"PK": "PROPOSITION#2119114",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119114"
 	},
 	{
 		"PK": "PROPOSITION#2119115",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119115"
 	},
 	{
 		"PK": "PROPOSITION#2119116",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2119116"
 	},
 	{
 		"PK": "PROPOSITION#2121030",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2121030"
 	},
 	{
 		"PK": "PROPOSITION#2121031",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2121031"
 	},
 	{
 		"PK": "PROPOSITION#2121032",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2121032"
 	},
 	{
 		"PK": "PROPOSITION#2121033",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2121033"
 	},
 	{
 		"PK": "PROPOSITION#2121034",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2121034"
 	},
 	{
 		"PK": "PROPOSITION#2121035",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2121035"
 	},
 	{
 		"PK": "PROPOSITION#2121036",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "2121036"
 	},
 	{
 		"PK": "PROPOSITION#949200",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "949200"
 	},
 	{
 		"PK": "PROPOSITION#961820",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "961820"
 	},
 	{
 		"PK": "PROPOSITION#964438",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "964438"
 	},
 	{
 		"PK": "PROPOSITION#964523",
-		"SK": "POLITICIAN#204475"
+		"SK": "POLITICIAN#204475",
+		"politicianId": "204475",
+		"propositionId": "964523"
 	},
 	{
 		"PK": "PROPOSITION#996696",
-		"SK": "POLITICIAN#178997"
+		"SK": "POLITICIAN#178997",
+		"politicianId": "178997",
+		"propositionId": "996696"
 	},
 	{
 		"PK": "PROPOSITION#996728",
-		"SK": "POLITICIAN#178997"
+		"SK": "POLITICIAN#178997",
+		"politicianId": "178997",
+		"propositionId": "996728"
 	},
 	{
 		"PK": "PROPOSITION#996729",
-		"SK": "POLITICIAN#178997"
+		"SK": "POLITICIAN#178997",
+		"politicianId": "178997",
+		"propositionId": "996729"
 	},
 	{
 		"PK": "PROPOSITION#996731",
-		"SK": "POLITICIAN#178997"
+		"SK": "POLITICIAN#178997",
+		"politicianId": "178997",
+		"propositionId": "996731"
 	},
 	{
 		"PK": "PROPOSITION#1049029",
-		"SK": "POLITICIAN#69871"
+		"SK": "POLITICIAN#69871",
+		"politicianId": "69871",
+		"propositionId": "1049029"
 	},
 	{
 		"PK": "PROPOSITION#1155788",
-		"SK": "POLITICIAN#69871"
+		"SK": "POLITICIAN#69871",
+		"politicianId": "69871",
+		"propositionId": "1155788"
 	},
 	{
 		"PK": "PROPOSITION#1199273",
-		"SK": "POLITICIAN#69871"
+		"SK": "POLITICIAN#69871",
+		"politicianId": "69871",
+		"propositionId": "1199273"
 	},
 	{
 		"PK": "PROPOSITION#1203452",
-		"SK": "POLITICIAN#69871"
+		"SK": "POLITICIAN#69871",
+		"politicianId": "69871",
+		"propositionId": "1203452"
+	},
+	{
+		"PK": "PROPOSITION#1203452",
+		"SK": "POLITICIAN#204453",
+		"politicianId": "204453",
+		"propositionId": "1203452"
+	},
+	{
+		"PK": "PROPOSITION#1203452",
+		"SK": "POLITICIAN#133374",
+		"politicianId": "133374",
+		"propositionId": "1203452"
+	},
+	{
+		"PK": "PROPOSITION#1203452",
+		"SK": "POLITICIAN#204554",
+		"politicianId": "204554",
+		"propositionId": "1203452"
+	},
+	{
+		"PK": "PROPOSITION#1203452",
+		"SK": "POLITICIAN#204362",
+		"politicianId": "204362",
+		"propositionId": "1203452"
+	},
+	{
+		"PK": "PROPOSITION#1203452",
+		"SK": "POLITICIAN#74161",
+		"politicianId": "74161",
+		"propositionId": "1203452"
+	},
+	{
+		"PK": "PROPOSITION#1203452",
+		"SK": "POLITICIAN#204390",
+		"politicianId": "204390",
+		"propositionId": "1203452"
+	},
+	{
+		"PK": "PROPOSITION#1203452",
+		"SK": "POLITICIAN#215045",
+		"politicianId": "215045",
+		"propositionId": "1203452"
+	},
+	{
+		"PK": "PROPOSITION#1203452",
+		"SK": "POLITICIAN#204538",
+		"politicianId": "204538",
+		"propositionId": "1203452"
 	},
 	{
 		"PK": "PROPOSITION#1049054",
@@ -2127,592 +2559,692 @@
 	{
 		"PK": "PROPOSITION#1049438",
 		"SK": "PROPOSITION#1049438",
+		"id": "1049438",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1049438",
 		"ementa": "Dá nova redação ao art. 10 da Lei nº 8.069, de 13 de julho de 1990, que \"Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências\"."
 	},
 	{
 		"PK": "PROPOSITION#1188078",
 		"SK": "PROPOSITION#1188078",
+		"id": "1188078",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1188078",
 		"ementa": "Susta a Resolução nº 12, de 16 de janeiro de 2015, do Conselho Nacional de Combate à Discriminação e Promoções dos Direitos de Lésbicas, Gays, Travestis e Transexuais - CNDC/LGBT, que \"Estabelece parâmetros para a garantia das condições de acesso e permanência de pessoas travestis e transexuais - e todas aquelas que tenham sua identidade de gênero não reconhecida em diferentes espaços sociais - nos sistemas e instituições de ensino, formulando orientações quanto ao reconhecimento institucional da identidade de gênero e sua operacionalização."
 	},
 	{
 		"PK": "PROPOSITION#1194759",
 		"SK": "PROPOSITION#1194759",
+		"id": "1194759",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1194759"
 	},
 	{
 		"PK": "PROPOSITION#1198171",
 		"SK": "PROPOSITION#1198171",
+		"id": "1198171",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1198171",
 		"ementa": "Dá nova redação à MPV 660/2014"
 	},
 	{
 		"PK": "PROPOSITION#1198573",
 		"SK": "PROPOSITION#1198573",
+		"id": "1198573",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1198573",
 		"ementa": "Requer o encaminhamento de Requerimento de Informação ao Exmo. Sr. Ministro da Integração Nacional acerca do atual cronograma de execução da obra de Transposição do Rio São Francisco com as Bacias Hidrográficas do Nordeste Setentrional."
 	},
 	{
 		"PK": "PROPOSITION#1215722",
 		"SK": "PROPOSITION#1215722",
+		"id": "1215722",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1215722",
 		"ementa": "Modifica a Lei nº 12.711, de 29 de agosto de 2012, para assegurar prioridade de ingresso em instituições públicas de educação superior os estudantes que residam em entidades de acolhimento institucional."
 	},
 	{
 		"PK": "PROPOSITION#1229145",
 		"SK": "PROPOSITION#1229145",
+		"id": "1229145",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1229145",
 		"ementa": "Dá nova redação à MPV 664/2014"
 	},
 	{
 		"PK": "PROPOSITION#1234217",
 		"SK": "PROPOSITION#1234217",
+		"id": "1234217",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1234217",
 		"ementa": "Requer a inclusão na Ordem do Dia da Proposta de Emenda à Constituição nº 186 de 2007, que \"altera o art. 37 da Constituição Federal\"."
 	},
 	{
 		"PK": "PROPOSITION#1278854",
 		"SK": "PROPOSITION#1278854",
+		"id": "1278854",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1278854",
 		"ementa": "Inclui o parágrafo 11 no artigo 4º da Lei nº 10.260, de 12 de julho de 2001, para vedar às Instituições de Ensino a cobrança de encargos educacionais em percentual de reajuste superior ao estabelecido pelo Ministério da Educação."
 	},
 	{
 		"PK": "PROPOSITION#1278879",
 		"SK": "PROPOSITION#1278879",
+		"id": "1278879",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1278879",
 		"ementa": "Parecer do Relator, Dep. Vicentinho (PT-SP), pela aprovação."
 	},
 	{
 		"PK": "PROPOSITION#1279611",
 		"SK": "PROPOSITION#1279611",
+		"id": "1279611",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279611",
 		"ementa": "Requeiro seja requisitado ao Hospital Nossa Senhora das Graças, localizado em Canoas/RS, o envio a esta CPI da relação dos prontuários dos pacientes submetidos à cirurgia de colocação de órteses/próteses, nos últimos 5 anos, indicando o nome dos pacientes, dos médicos e a identificação da órtese/prótese utilizada."
 	},
 	{
 		"PK": "PROPOSITION#12808",
 		"SK": "PROPOSITION#12808",
+		"id": "12808",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/12808",
 		"ementa": "Sugere ao Poder Executivo, por intermédio do Ministério do Meio Ambiente, a determinação de medidas enérgicas, sem prejuízo de outras instituições públicas, com a finalidade de detectar e reprimir o contrabando de madeiras de lei e com o fito de concretizar uma maior proteção ao meio ambiente."
 	},
 	{
 		"PK": "PROPOSITION#1297450",
 		"SK": "PROPOSITION#1297450",
+		"id": "1297450",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1297450"
 	},
 	{
 		"PK": "PROPOSITION#1299826",
 		"SK": "PROPOSITION#1299826",
+		"id": "1299826",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1299826",
 		"ementa": "Acrescenta o § 4º ao art. 102 da Constituição Federal, para estabelecer a reinclusão automática em pauta dos processos que especifica, um ano após o pedido de vista pelos Ministros do Supremo Tribunal Federal."
 	},
 	{
 		"PK": "PROPOSITION#1302781",
 		"SK": "PROPOSITION#1302781",
+		"id": "1302781",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1302781",
 		"ementa": "Sugere ao Ministro de Estado das Comunicações a instalação de antena de telefonia móvel no Povoado Capim Grosso no município de Canindé do São Francisco no Estado de Sergipe."
 	},
 	{
 		"PK": "PROPOSITION#1307102",
 		"SK": "PROPOSITION#1307102",
+		"id": "1307102",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1307102",
 		"ementa": "Inscreve o nome de João Belchior Marques Goulart no Livro dos Heróis da Pátria e dá outras providências."
 	},
 	{
 		"PK": "PROPOSITION#1307461",
 		"SK": "PROPOSITION#1307461",
+		"id": "1307461",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1307461",
 		"ementa": "Requer ao Ministro da Educação informações acerca do panorama atual de recursos de acessibilidade disponibilizados aos alunos com deficiência e das medidas planejadas para o cumprimento de estratégias da meta 4 do Plano Nacional de Educação (PNE)."
 	},
 	{
 		"PK": "PROPOSITION#1514367",
 		"SK": "PROPOSITION#1514367",
+		"id": "1514367",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1514367",
 		"ementa": "Parecer do Relator, Dep. Daniel Almeida (PCdoB-BA), pela aprovação."
 	},
 	{
 		"PK": "PROPOSITION#1537571",
 		"SK": "PROPOSITION#1537571",
+		"id": "1537571",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1537571",
 		"ementa": "Inclui novo § 4º ao art. 40 da Lei nº 8.078, de 11 de setembro de 1990 - Código de Proteção e Defesa do Consumidor -, para proibir a de cobrança de taxa de visita técnica ou de qualquer despesa do consumidor com a finalidade de elaboração de orçamento."
 	},
 	{
 		"PK": "PROPOSITION#1549084",
 		"SK": "PROPOSITION#1549084",
+		"id": "1549084",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1549084",
 		"ementa": "Parecer do Relator, Dep. Pedro Uczai (PT-SC), pela rejeição."
 	},
 	{
 		"PK": "PROPOSITION#1585116",
 		"SK": "PROPOSITION#1585116",
+		"id": "1585116",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1585116",
 		"ementa": "Altera a Lei nº 9.074, de 7 de julho de 1995, para dispor sobre os limites de carga e sobre os prazos que devem ser observados para consumidores de energia elétrica migrarem do Ambiente de Contratação Regulada para o Ambiente de Contratação Livre."
 	},
 	{
 		"PK": "PROPOSITION#1594399",
 		"SK": "PROPOSITION#1594399",
+		"id": "1594399",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1594399",
 		"ementa": "Altera a Lei nº 5.766, de 20 de dezembro de 1971, que cria o Conselho Federal e os Conselhos Regionais de Psicologia."
 	},
 	{
 		"PK": "PROPOSITION#1598638",
 		"SK": "PROPOSITION#1598638",
+		"id": "1598638",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1598638"
 	},
 	{
 		"PK": "PROPOSITION#1635763",
 		"SK": "PROPOSITION#1635763",
+		"id": "1635763",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1635763",
 		"ementa": "Requer a convocação dos Srs. ELEMER COELHO e STÊNIO SANTOS, delegados da Polícia Federal, para prestar informações perante esta Comissão Parlamentar de Inquérito."
 	},
 	{
 		"PK": "PROPOSITION#1673058",
 		"SK": "PROPOSITION#1673058",
+		"id": "1673058",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1673058",
 		"ementa": "Aprovado por Unanimidade o Parecer.. \nParecer do Relator, Dep. Ademir Camilo (PROS-MG), pela aprovação."
 	},
 	{
 		"PK": "PROPOSITION#1685076",
 		"SK": "PROPOSITION#1685076",
+		"id": "1685076",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1685076"
 	},
 	{
 		"PK": "PROPOSITION#1741143",
 		"SK": "PROPOSITION#1741143",
+		"id": "1741143",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1741143",
 		"ementa": "Requer a retirada de tramitação do Projeto de Lei n. 578, de 2015, de sua autoria."
 	},
 	{
 		"PK": "PROPOSITION#1805142",
 		"SK": "PROPOSITION#1805142",
+		"id": "1805142",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1805142",
 		"ementa": "A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na Oitava Reunião Extraordinária, realizada em 22 de setembro de 2015, APROVOU, por unanimidade, o Relatório do Deputado ÁTILA LINS pelo CONHECIMENTO e ARQUIVAMENTO das seguintes matérias: Aviso nº 6/2014-CN, que \"Relatório de Acompanhamento pelo Tribunal de Contas da União da Gestão Fiscal dos Poderes e Órgãos da União, exercício 2013.\"; MCN nº 41/2013, que \"Encaminha, nos termos do art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal referente ao período de janeiro a abril do exercício de 2013.\"; MCN nº 89/2013, que \"Encaminha, nos termos do art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal referente ao período de janeiro a agosto de 2013.\"; OFN nº 18/2013, que \"Encaminha, em cumprimento de determinação expressa no inciso I do art. 5° da Lei n° 10.028, de 19 de outubro de 2000, os demonstrativos que compõem os Relatórios de Gestão Fiscal do Ministério Público da União e do Ministério Público do Distrito Federal e Territórios, referentes ao 1° quadrimestre de 2013.\"; OFN nº 19/2013, que \"Encaminha em cumprimento ao disposto no inciso I do art. 5° da Lei 10.028, de 19/10/2000, o Relatório de Gestão Fiscal da Câmara dos Deputados, referente ao período de maio de 2012 a abril de 2013.\"; OFN nº 20/2013, que \"Encaminha, em cumprimento ao disposto no art. 5º da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do 1º Quadrimestre de 2013 de que trata o art. 54 da lei Completar nº 101/2000, do Conselho Nacional de Justiça.\"; OFN nº 21/2013, que \"Encaminha, em cumprimento ao art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do Tribunal Superior do Trabalho referente ao período de maio/2012 a abril/2013.\"; OFN nº 22/2013, que \"Encaminha, em conformidade com o inciso I do art. 5º da Lei nº 10.028/2000, o Relatório de Gestão Fiscal do Conselho da Justiça Federal, referente ao 1º quadrimestre de 2013.\"; OFN  nº 24/2013, que \"Encaminha, em cumprimento ao art. 5º, iniciso I, da Lei nº 10.028, de 19 de outubro de 200, o Relatório de Gestão Fiscal do Tribunal de Justiça do Distrito Federal e dos Territórios, referente ao 1º quadrimestre de 2013.\"; OFN  nº 25/2013, que \"Encaminha em cumprimento ao artigo 5º, inciso I, da Lei nº 10.028/00, o Relatório de Gestão Fiscal do Tribunal Superior Eleitoral, referente ao primeiro quadrimestre de 2013.\"; OFN  nº 31/2013, que \"Encaminha, em conformidade com o art. 54 da Lei Complementar nº 101, de 4 de maio de 2000, e de acordo com a Lei nº 12.708, de 17 de agosto de 2012, o Relatório de Gestão Fiscal do Superior Tribunal de Justiça referente ao 1º quadrimestre de 2013.\"; OFN nº 33/2013, que \"Encaminha o Relatório de Gestão Fiscal do 2º Quadrimestre de 2013, de que trata o art. 54 da Lei Complementar nº 101/2000, do Conselho Nacional de Justiça.\"; OFN  nº 35/2013, que \"Encaminha, em cumprimento ao artigo 5º, inciso I, da Lei n° 10.028, de 19 de outubro de 2000, cópia do Relatório de Gestão Fiscal do Tribunal Superior do Trabalho, referente ao período de setembro/2012 a agosto/2013.\"; OFN  nº 36/2013, que \"Encaminha, em cumprimento ao disposto no art. 118 da Lei nº 12.465 de agosto de 2011, o Relatório de Gestão Fiscal do Ministério Público da União e do Ministério Público do Distrito Federal e Territórios, referentes ao 2º quadrimestre de 2013.\"; OFN  nº 37/2013, que \"Encaminha, em cumprimento ao disposto no inciso I do art. 5º da Lei 10.028, de 19/10/2000, o Relatório de Gestão Fiscal da Câmara dos Deputados, referente ao período de setembro de 2012 a agosto de 2013.\" e OFN  nº 39/2013 que \"Encaminha, em conformidade com o inciso I do art. 5º da Lei nº 10.028/2000, o Relatório de Gestão Fiscal do Conselho da Justiça Federal, referente ao 2º quadrimestre de 2013\"."
 	},
 	{
 		"PK": "PROPOSITION#1805223",
 		"SK": "PROPOSITION#1805223",
+		"id": "1805223",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1805223",
 		"ementa": "Dá nova redação à MPV 676/2015"
 	},
 	{
 		"PK": "PROPOSITION#1805254",
 		"SK": "PROPOSITION#1805254",
+		"id": "1805254",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1805254",
 		"ementa": "Dá nova redação à MPV 676/2015"
 	},
 	{
 		"PK": "PROPOSITION#1806091",
 		"SK": "PROPOSITION#1806091",
+		"id": "1806091",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1806091",
 		"ementa": "Aprovado o Parecer.. \nParecer do Relator, Dep. Laercio Oliveira (SD-SE), pela rejeição."
 	},
 	{
 		"PK": "PROPOSITION#1806389",
 		"SK": "PROPOSITION#1806389",
+		"id": "1806389",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1806389",
 		"ementa": "Altera a Lei nº 10.826, de 2003,  para aumentar a pena dos crimes especificados nos artigos 16, 17, 18  e 19, quando se tratar de arma de uso proibido ou restrito."
 	},
 	{
 		"PK": "PROPOSITION#1806589",
 		"SK": "PROPOSITION#1806589",
+		"id": "1806589",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1806589",
 		"ementa": "Requer informações ao Senhor Ministro da Cultura, acerca das ações do Plano Nacional de Cultura, no Estado de Mato Grosso do Sul, referente ao ano de 2014."
 	},
 	{
 		"PK": "PROPOSITION#2017317",
 		"SK": "PROPOSITION#2017317",
+		"id": "2017317",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2017317",
 		"ementa": "Altera a Lei nº 10.098, de 19 de dezembro de 2000, para estabelecer reserva de vagas em estacionamentos públicos para mulheres a partir do sexto mês de gestação e até 30 (trinta) dias após o parto."
 	},
 	{
 		"PK": "PROPOSITION#2017457",
 		"SK": "PROPOSITION#2017457",
+		"id": "2017457",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2017457",
 		"ementa": "Parecer do Relator, Dep. Laercio Oliveira (SD-SE), pela rejeição deste, e do PL 7195/2014, apensado, e pela aprovação do PL 7648/2014, apensado."
 	},
 	{
 		"PK": "PROPOSITION#2023916",
 		"SK": "PROPOSITION#2023916",
+		"id": "2023916",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2023916",
 		"ementa": "Dispõe sobre a dedução dos gastos com academia de ginástica ou em outros esportes na Declaração de Ajuste Anual do Imposto de Renda Pessoa Física."
 	},
 	{
 		"PK": "PROPOSITION#2025532",
 		"SK": "PROPOSITION#2025532",
+		"id": "2025532",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2025532",
 		"ementa": "Aprovado por Unanimidade o Parecer.. \nParecer da relatora, Dep. Soraya Santos, pela compatibilidade financeira e orçamentária."
 	},
 	{
 		"PK": "PROPOSITION#2026096",
 		"SK": "PROPOSITION#2026096",
+		"id": "2026096",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2026096",
 		"ementa": "Modifica o art. 9º da Lei nº 12.694, de 24 de julho de 2012, para dispor sobre a prestação de proteção especial aos ocupantes dos cargos de Auditor-Fiscal da Receita Federal do Brasil e de Auditor-Fiscal do Trabalho e dá outras providências."
 	},
 	{
 		"PK": "PROPOSITION#2026119",
 		"SK": "PROPOSITION#2026119",
+		"id": "2026119",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2026119",
 		"ementa": "Parecer da Relatora, Dep. Soraya Santos (PMDB-RJ), pela aprovação."
 	},
 	{
 		"PK": "PROPOSITION#2052903",
 		"SK": "PROPOSITION#2052903",
+		"id": "2052903",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2052903",
 		"ementa": "Dá nova redação à MPV 688/2015"
 	},
 	{
 		"PK": "PROPOSITION#2054855",
 		"SK": "PROPOSITION#2054855",
+		"id": "2054855",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2054855",
 		"ementa": "Dá nova redação à MPV 691/2015"
 	},
 	{
 		"PK": "PROPOSITION#2057190",
 		"SK": "PROPOSITION#2057190",
+		"id": "2057190",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2057190",
 		"ementa": "Parecer do Relator, Dep. Lucas Vergilio (SD-GO), pela aprovação."
 	},
 	{
 		"PK": "PROPOSITION#2075199",
 		"SK": "PROPOSITION#2075199",
+		"id": "2075199",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075199",
 		"ementa": "Sugere ao Ministério do Esporte para implantação do Programa Esporte e Lazer, propiciar o repasse de recursos financeiros em forma de concessão de bolsa para que os objetivos do programa sejam efetivamente alcançados em sua aplicabilidade plena, no Município de São Sebastião da Amoreira, Estado do Paraná."
 	},
 	{
 		"PK": "PROPOSITION#2076602",
 		"SK": "PROPOSITION#2076602",
+		"id": "2076602",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2076602",
 		"ementa": "Altera o parágrafo único do art. 105 do Regimento Interno para restringir a possibilidade de desarquivamento de proposições àquelas que tenham recebido parecer de pelo menos uma comissão de mérito na legislatura anterior."
 	},
 	{
 		"PK": "PROPOSITION#2077453",
 		"SK": "PROPOSITION#2077453",
+		"id": "2077453",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2077453",
 		"ementa": "Sugere que seja incluída entre as opções do \"Disque 100\" da Secretaria de Direitos Humanos a opção \"discriminação aos direitos da família\"."
 	},
 	{
 		"PK": "PROPOSITION#2079193",
 		"SK": "PROPOSITION#2079193",
+		"id": "2079193",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2079193",
 		"ementa": "Requer, em sintonia com as disposições constitucionais, legais e regimentais, seja CONVOCADO o(a) Sr.(a) VICTOR SANDRI para prestar depoimento."
 	},
 	{
 		"PK": "PROPOSITION#2081718",
 		"SK": "PROPOSITION#2081718",
+		"id": "2081718",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2081718",
 		"ementa": "CÓDIGO PROCESSO PENAL."
 	},
 	{
 		"PK": "PROPOSITION#2082475",
 		"SK": "PROPOSITION#2082475",
+		"id": "2082475",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2082475",
 		"ementa": "Requer Informações ao Senhor Ministro das Comunicações, que através da ANATEL esclareça o fato de que as operadoras pretendem oferecer internet fixa com franquia limitada, em que o serviço pode ser suspenso quando o usuário atinge uma determinada quantidade de arquivos e dados baixados."
 	},
 	{
 		"PK": "PROPOSITION#2083494",
 		"SK": "PROPOSITION#2083494",
+		"id": "2083494",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083494",
 		"ementa": "Altera a Lei nº 6.938, de 1981, a Lei nº 8.666, de 1993, e a Lei nº 9.605, de 1998,para instituir o Cadastro de Crimes contra o Meio Ambiente e vedar as pessoas jurídicas inscritas nesse Cadastro de receberem financiamentos e incentivos governamentais e de contratar com o Poder Público."
 	},
 	{
 		"PK": "PROPOSITION#2083526",
 		"SK": "PROPOSITION#2083526",
+		"id": "2083526",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083526",
 		"ementa": "Requer a inclusão na Ordem do Dia do Plenário, do Projeto de Lei n.º 2.245/2007, que regulamenta a profissão de Tecnólogo e dá outras providências."
 	},
 	{
 		"PK": "PROPOSITION#2083892",
 		"SK": "PROPOSITION#2083892",
+		"id": "2083892",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2083892",
 		"ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941- Código de Processo Penal."
 	},
 	{
 		"PK": "PROPOSITION#2089504",
 		"SK": "PROPOSITION#2089504",
+		"id": "2089504",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2089504",
 		"ementa": "Requer realização de audiência pública no âmbito da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural (CAPADR) para debater a Portaria n° 52, de 16 de junho de 2016, do Ministério de Agricultura Pecuária e Abastecimento, referente à divulgação dos resultados do Programa Nacional de Controle de Resíduos e Contaminantes (PNCRC) das culturas agrícolas especificadas."
 	},
 	{
 		"PK": "PROPOSITION#2089998",
 		"SK": "PROPOSITION#2089998",
+		"id": "2089998",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2089998",
 		"ementa": "Proíbe a venda, a oferta, e o consumo de bebida energética, ainda que gratuitamente, aos menores de 18 (dezoito) anos de idade."
 	},
 	{
 		"PK": "PROPOSITION#2091707",
 		"SK": "PROPOSITION#2091707",
+		"id": "2091707",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2091707",
 		"ementa": "Aprovado por Unanimidade o Parecer.. \nParecer do Relator, Dep. Vicentinho (PT-SP), pela aprovação, com emenda."
 	},
 	{
 		"PK": "PROPOSITION#2091992",
 		"SK": "PROPOSITION#2091992",
+		"id": "2091992",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2091992",
 		"ementa": "Solicita informações ao Ministro do Desenvolvimento Social e Agrário, como se encontra o processo do Terra Legal, no Município de Borba, no Estado do Amazonas"
 	},
 	{
 		"PK": "PROPOSITION#2092802",
 		"SK": "PROPOSITION#2092802",
+		"id": "2092802",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2092802",
 		"ementa": "Contra parecer terminativo da Comissão de Finanças e Tributação, emitido na forma do art. 54, ao Projeto de Lei 3.623/2008, que \"Institui incentivos fiscais para operações com instrumentos musicais."
 	},
 	{
 		"PK": "PROPOSITION#2093529",
 		"SK": "PROPOSITION#2093529",
+		"id": "2093529",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2093529",
 		"ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, permitindo à Anatel alterar a modalidade de licenciamento de serviço de telecomunicações de concessão para autorização."
 	},
 	{
 		"PK": "PROPOSITION#2095265",
 		"SK": "PROPOSITION#2095265",
+		"id": "2095265",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2095265",
 		"ementa": "Dá nova redação à MPV 727/2016"
 	},
 	{
 		"PK": "PROPOSITION#2110703",
 		"SK": "PROPOSITION#2110703",
+		"id": "2110703",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2110703",
 		"ementa": "Solicita a retirada de tramitação do Projeto de Lei  6.646 de 2013 que \"Autoriza o Poder Executivo a doar três aeronaves T-27 TUCANO à Força Aérea de Moçambique\", enviado à Câmara dos Deputados com a Mensagem nº 463, de 2013."
 	},
 	{
 		"PK": "PROPOSITION#2111884",
 		"SK": "PROPOSITION#2111884",
+		"id": "2111884",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111884",
 		"ementa": "Altera o § 2º, do Art. 477 da Consolidação das Leis do Trabalho, aprovado pelo Decreto-Lei nº 5.452 de 1º maio de 1943."
 	},
 	{
 		"PK": "PROPOSITION#2112408",
 		"SK": "PROPOSITION#2112408",
+		"id": "2112408",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2112408"
 	},
 	{
 		"PK": "PROPOSITION#2114840",
 		"SK": "PROPOSITION#2114840",
+		"id": "2114840",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114840",
 		"ementa": "Dá nova redação à MPV 739/2016"
 	},
 	{
 		"PK": "PROPOSITION#2115998",
 		"SK": "PROPOSITION#2115998",
+		"id": "2115998",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2115998"
 	},
 	{
 		"PK": "PROPOSITION#2116391",
 		"SK": "PROPOSITION#2116391",
+		"id": "2116391",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2116391",
 		"ementa": "Aprovada a Redação Final. Absteve-se de votar o Deputado Esperidião Amin.. \nParecer do Relator, Dep. Delegado Edson Moreira (PR-MG), pela constitucionalidade, juridicidade, técnica legislativa, e, no mérito, pela aprovação."
 	},
 	{
 		"PK": "PROPOSITION#2118292",
 		"SK": "PROPOSITION#2118292",
+		"id": "2118292",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2118292",
 		"ementa": "VOTO: pela aprovação do Projeto de Lei, na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas."
 	},
 	{
 		"PK": "PROPOSITION#2119108",
 		"SK": "PROPOSITION#2119108",
+		"id": "2119108",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2119108",
 		"ementa": "Dá nova redação à MPV 746/2016"
 	},
 	{
 		"PK": "PROPOSITION#2120286",
 		"SK": "PROPOSITION#2120286",
+		"id": "2120286",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2120286",
 		"ementa": "Altera o art. 44 da Lei nº 9.394, de 1996, de diretrizes e bases da educação nacional, para admitir a matrícula em curso de graduação de estudante que, ainda cursando o ensino médio, tenha sido aprovado em processo seletivo e obtido pontuação no Exame Nacional do Ensino Médio que o habilite ao certificado de conclusão desse nível de ensino."
 	},
 	{
 		"PK": "PROPOSITION#2120932",
 		"SK": "PROPOSITION#2120932",
+		"id": "2120932",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2120932",
 		"ementa": "Requer a realização de Seminário sobre a figura do Investidor Anjo na Lei do Super Simples, no contexto do desenvolvimento econômico brasileiro, na cidade do Rio de Janeiro - RJ."
 	},
 	{
 		"PK": "PROPOSITION#2121702",
 		"SK": "PROPOSITION#2121702",
+		"id": "2121702",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2121702",
 		"ementa": "Aprova o texto do Acordo sobre Serviços Aéreos entre a República Federativa do Brasil e o Reino dos Países Baixos, com Relação à Curaçao, referente a Transporte Aéreo entre Brasil e Curaçao, celebrado em Brasília, em 03 de dezembro de 2013."
 	},
 	{
 		"PK": "PROPOSITION#2122185",
 		"SK": "PROPOSITION#2122185",
+		"id": "2122185",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122185",
 		"ementa": "Solicita à Car Central de Autopeças e Rolamentos S.A. todas as informações, comprovantes e documentos relacionados aos projetos culturais vinculados à Lei Rouanet, nos últimos 10 anos."
 	},
 	{
 		"PK": "PROPOSITION#2122219",
 		"SK": "PROPOSITION#2122219",
+		"id": "2122219",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122219",
 		"ementa": "Solicita à RIP Serviços Industriais Ltda. todas as informações, comprovantes e documentos relacionados aos projetos culturais vinculados à Lei Rouanet, nos últimos 10 anos."
 	},
 	{
 		"PK": "PROPOSITION#2122371",
 		"SK": "PROPOSITION#2122371",
+		"id": "2122371",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122371",
 		"ementa": "Solicita a Magnetoscópio Produções Ltda. todas as informações, comprovantes e documentos relacionados aos projetos culturais vinculados à Lei Rouanet, nos últimos 10 anos."
 	},
 	{
 		"PK": "PROPOSITION#2123776",
 		"SK": "PROPOSITION#2123776",
+		"id": "2123776",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2123776",
 		"ementa": "Requer a realização de Audiência Pública destinada a debater o Projeto de lei n° 7.180/2014\n\nConvidados:\nMaria Virgínia de Freitas - Mestre em Educação pela USP\nDenise Eloy - Jornalista da Ação Educativa\nJuliane Cintra - Coordenadora de Comunicação Ação Educativa\nDenise Carreira - Doutora em Educação pela Universidade de São Paulo"
 	},
 	{
 		"PK": "PROPOSITION#2124145",
 		"SK": "PROPOSITION#2124145",
+		"id": "2124145",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124145",
 		"ementa": "Parecer do Relator, Dep. Fábio Ramalho (PMDB-MG), pela aprovação."
 	},
 	{
 		"PK": "PROPOSITION#2124445",
 		"SK": "PROPOSITION#2124445",
+		"id": "2124445",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124445",
 		"ementa": "A Sua Senhoria o Senhor\nFABIO PORCHAT"
 	},
 	{
 		"PK": "PROPOSITION#2124634",
 		"SK": "PROPOSITION#2124634",
+		"id": "2124634",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124634",
 		"ementa": "PROPOSTA DE EMENDA À CONSTITUIÇÃO N° 287, DE 2016\n\nAltera os Arts. 37, 40, 109, 149, 167,195. 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.\n\n\nEMENDA ADITIVA N.º      DE 2017\n(do Sr. Arnaldo Faria de Sá e outros)\n\n\n I - Inclua-se, no Art. 1° da PEC 287/2016, a seguinte alteração aos § 1º do Art. 40 da Constituição:\n\"Art. 40 ………………………………………………………………….....................\n§ 1°……………........................................................................\nI - por invalidez permanente;\nII - ……….............................................................................\nIII - ……..............................................................................\nIV - - O servidor da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, que tenha ingressado no serviço público até 31 de dezembro de 2003, que se aposentou ou venha se aposentar por invalidez permanente, com fundamento no inciso I do § 1° do Art. 40 da Constituição Federal, ressalvada a hipótese do § 16 do Art. 40 da Constituição Federal, tem direito a:\na)\t- proventos de aposentadoria calculada com b"
 	},
 	{
 		"PK": "PROPOSITION#2125129",
 		"SK": "PROPOSITION#2125129",
+		"id": "2125129",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125129",
 		"ementa": "Emenda aditiva"
 	},
 	{
 		"PK": "PROPOSITION#2125565",
 		"SK": "PROPOSITION#2125565",
+		"id": "2125565",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125565",
 		"ementa": "Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943 - Consolidação das Leis do Trabalho, e a Lei nº 6.019, de 3 de janeiro de 1974, para dispor sobre eleições de representantes dos trabalhadores no local de trabalho e sobre trabalho temporário, e dá outras providências."
 	},
 	{
 		"PK": "PROPOSITION#2126003",
 		"SK": "PROPOSITION#2126003",
+		"id": "2126003",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2126003",
 		"ementa": "Altera dispositivo ao PL n.6787/2016, que \"altera o Decreto Lei n.5.452, e 1º de maio de 1943 - Consolidação das Leis do Trabalho, e a Lei 6.019, de 3 de janeiro de 1974, para dispor sobre eleições de representantes dos trabalhadores no local de trabalho e sobre trabalho temporário, e dá outras providências."
 	},
 	{
 		"PK": "PROPOSITION#2126985",
 		"SK": "PROPOSITION#2126985",
+		"id": "2126985",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2126985",
 		"ementa": "Solicita a realização de Audiência Pública com a finalidade de conhecer e debater o Projeto Brasil Amanhã, da Fundação Osvaldo Cruz (FIOCRUZ"
 	},
 	{
 		"PK": "PROPOSITION#2128073",
 		"SK": "PROPOSITION#2128073",
+		"id": "2128073",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128073",
 		"ementa": "Requer seja realizada reunião de Audiência Pública com o presidente do Tribunal de Contas da União - TCU, para que exponha a situação atual das contas e das denúncias  da Empresa Brasileira de Correios e Telégrafos - ECT."
 	},
 	{
 		"PK": "PROPOSITION#2128116",
 		"SK": "PROPOSITION#2128116",
+		"id": "2128116",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128116",
 		"ementa": "Requer realização de Audiência Pública para discutir as diretrizes operacionais de financiamento à Carcinicultura."
 	},
 	{
 		"PK": "PROPOSITION#2128732",
 		"SK": "PROPOSITION#2128732",
+		"id": "2128732",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128732",
 		"ementa": "Aumenta a pena do crime de falsificação, corrupção, adulteração ou alteração de substância ou produtos alimentícios."
 	},
 	{
 		"PK": "PROPOSITION#2129537",
 		"SK": "PROPOSITION#2129537",
+		"id": "2129537",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2129537",
 		"ementa": "Emenda aditiva"
 	},
 	{
 		"PK": "PROPOSITION#2132927",
 		"SK": "PROPOSITION#2132927",
+		"id": "2132927",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2132927",
 		"ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre tubos de escape de ônibus e caminhões."
 	},
 	{
 		"PK": "PROPOSITION#2135187",
 		"SK": "PROPOSITION#2135187",
+		"id": "2135187",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2135187",
 		"ementa": "Requer a realização de audiência pública com o Coordenador dos Secretários do CONFAZ no âmbito da Comissão Especial para debater sobre a importância da alteração na Lei Kandir."
 	},
 	{
 		"PK": "PROPOSITION#2137829",
 		"SK": "PROPOSITION#2137829",
+		"id": "2137829",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2137829",
 		"ementa": "Aprovado por Unanimidade o Parecer.. \nParecer do Relator, Dep. Bebeto, pela aprovação deste, e do PL 8.247/14, apensado, com substitutivo."
 	},
 	{
 		"PK": "PROPOSITION#2236261",
 		"SK": "PROPOSITION#2236261",
+		"id": "2236261",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2236261",
 		"ementa": "Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de fevereiro de 2020.\n\nNOVA EMENTA: Dispõe sobre o valor do salário-mínimo a vigorar a partir de 1º de janeiro de 2020; e dá outras providências."
 	},
 	{
 		"PK": "PROPOSITION#2237397",
 		"SK": "PROPOSITION#2237397",
+		"id": "2237397",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2237397",
 		"ementa": "Requisição de informações à Prefeitura Municipal de Marechal Deodoro - AL."
 	},
 	{
 		"PK": "PROPOSITION#2237473",
 		"SK": "PROPOSITION#2237473",
+		"id": "2237473",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2237473",
 		"ementa": "Requisição de informações à Prefeitura do Município de Ceará-Mirim (RN)."
 	},
 	{
 		"PK": "PROPOSITION#22382",
 		"SK": "PROPOSITION#22382",
+		"id": "22382",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/22382",
 		"ementa": "SOLICITA INFORMAÇÕES AO MINISTERIO DA FAZENDA, SOBRE QUAIS OS VALORES LIBERADOS PARA A OBRA DE DUPLICAÇÃO DA RODOVIA FERNÃO DIAS (BELO HORIZONTE-SÃO PAULO), DESDE O SEU INÍCIO, ATUALIZADOS, E QUAL A DATA DE LIBERAÇÃO."
 	},
 	{
 		"PK": "PROPOSITION#2238448",
 		"SK": "PROPOSITION#2238448",
+		"id": "2238448",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238448",
 		"ementa": "Requer a concessão de Voto de Louvor em comemoração ao 139º Aniversário do município amazonense de Lábrea."
 	},
 	{
 		"PK": "PROPOSITION#2238882",
 		"SK": "PROPOSITION#2238882",
+		"id": "2238882",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238882",
 		"ementa": "Altera a Lei n º 6.088, de 16 de julho de 1974, que dispõe sobre a criação da Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF, para incluir todas as bacias hidrográficas do Nordeste em sua jurisdição."
 	},
 	{
 		"PK": "PROPOSITION#2242422",
 		"SK": "PROPOSITION#2242422",
+		"id": "2242422",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2242422"
 	},
 	{
 		"PK": "PROPOSITION#2242464",
 		"SK": "PROPOSITION#2242464",
+		"id": "2242464",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2242464",
 		"ementa": "Dispõe sobre medidas de intervenção na propriedade e atuação no domínio econômico para assegurar o fornecimento de bens e serviços essenciais durante a emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019."
 	},
 	{
 		"PK": "PROPOSITION#22839",
 		"SK": "PROPOSITION#22839",
+		"id": "22839",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/22839",
 		"ementa": "Submete à apreciação do Congresso Nacional o ato constante do Decreto de 17 de julho de 2000, que renova concessão à Rádio Quaraí Ltda., para explorar serviços de radiodifusão, a partir de 1º de maio de 1994, na cidade de Quaraí, Estado do Rio Grande do Sul."
 	},
 	{
 		"PK": "PROPOSITION#944263",
 		"SK": "PROPOSITION#944263",
+		"id": "944263",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/944263"
 	},
 	{
 		"PK": "PROPOSITION#946389",
 		"SK": "PROPOSITION#946389",
+		"id": "946389",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/946389",
 		"ementa": "Requer a inclusão do meu nome no rol dos parlamentares que apoiam a CPI da Petrobras."
 	},
 	{
 		"PK": "PROPOSITION#996277",
 		"SK": "PROPOSITION#996277",
+		"id": "996277",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996277",
 		"ementa": "Acrescenta §14 ao art. 27 da Lei n.º 9.615, de 24 de março de 1998, para sujeitar os dirigentes de entidades desportivas profissionais à responsabilização civil, se houver antecipação de receitas, por meio da formalização de contratos, cujos vencimentos sejam posteriores ao término de seus mandatos."
 	},
 	{
 		"PK": "PROPOSITION#996599",
 		"SK": "PROPOSITION#996599",
+		"id": "996599",
 		"uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996599",
 		"ementa": "Solicita a inclusão em extrapauta do requerimento que \"Requer seja realizado encontro desta Comissão durante a Expodireto Cotrijal 2015, no município de Não Me Toque, estado do Rio Grande do Sul\"."
 	},
