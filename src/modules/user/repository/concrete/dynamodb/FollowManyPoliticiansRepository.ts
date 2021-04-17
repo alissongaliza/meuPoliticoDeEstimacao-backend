@@ -2,10 +2,10 @@ import { DocumentClient } from 'aws-sdk/clients/dynamodb';
 
 import { DynamoDBInstance } from '../../../../../shared/infra/dynamodb/DynamoDBInstance';
 import { Followee } from '../../../entities/DTO';
-import { IFollowPoliticiansRepository } from '../../interface/IFollowPoliticiansRepository';
+import { IFollowManyPoliticiansRepository } from '../../interface/IFollowManyPoliticiansRepository';
 
-export class FollowPoliticiansRepository implements IFollowPoliticiansRepository {
-	async followPoliticians(userName: string, followees: Followee[]): Promise<boolean> {
+export class FollowManyPoliticiansRepository implements IFollowManyPoliticiansRepository {
+	async followManyPoliticians(userName: string, followees: Followee[]): Promise<boolean> {
 		const newFollowees = followees.map<DocumentClient.WriteRequest>(({ id, name, partyCode, photoUrl }) => {
 			return {
 				PutRequest: {

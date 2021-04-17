@@ -1,10 +1,16 @@
 import { Followee } from '../entities/DTO';
-import { IFollowPoliticiansRepository } from '../repository/interface/IFollowPoliticiansRepository';
+import { IFollowManyPoliticiansRepository } from '../repository/interface/IFollowManyPoliticiansRepository';
+import { IFollowSinglePoliticianRepository } from '../repository/interface/IFollowSinglePoliticianRepository';
 
 export class FollowPoliticiansUsecase {
-	constructor(private readonly followPoliticiansRepository: IFollowPoliticiansRepository) {}
+	constructor(
+		private readonly followManyPoliticiansRepository: IFollowManyPoliticiansRepository,
+		private readonly followSinglePoliticianRepository: IFollowSinglePoliticianRepository
+	) {}
 
 	async followPoliticians(userName: string, followees: Followee[]): Promise<boolean> {
-		return await this.followPoliticiansRepository.followPoliticians(userName, followees);
+		return await (followees.length === 1
+			? this.followSinglePoliticianRepository.followSinglePolitician(userName, followees[0])
+			: this.followManyPoliticiansRepository.followManyPoliticians(userName, followees));
 	}
 }
