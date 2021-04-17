@@ -22,7 +22,7 @@
   - [ ] Find politician and list its newest propositions
   - [x] Follow politicians
     - Notify user of every new proposition by this politician
-  - [ ] List Politicians followed by user
+  - [x] List Politicians followed by user
 - :star: Extras
   - [ ] Watch themes
     - Notify user of every new proposition in this theme
