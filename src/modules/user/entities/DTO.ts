@@ -10,3 +10,13 @@ export interface RankThemesDTO {
 	newFavoriteThemes: string[];
 	oldFavoriteThemes: string[];
 }
+
+export interface Followee {
+	id: string;
+	name: string;
+	photoUrl: string;
+	partyCode: string;
+}
+export interface FollowManyPoliticianDTO {
+	followees: Followee[];
+}

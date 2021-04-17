@@ -15,3 +15,18 @@ export const rankThemesSchema = joi.object().keys({
 	newFavoriteThemes: joi.array().items(joi.string()).min(3).max(3).unique().required(),
 	oldFavoriteThemes: joi.array().items(joi.string()).min(0).max(3).unique().required(),
 });
+
+export const followManyPoliticianSchema = joi.object().keys({
+	followees: joi
+		.array()
+		.items(
+			joi.object().keys({
+				id: joi.string().max(500).required(),
+				name: joi.string().max(500).required(),
+				photoUrl: joi.string().required(),
+				partyCode: joi.string().max(500).required(),
+			})
+		)
+		.min(1)
+		.required(),
+});
