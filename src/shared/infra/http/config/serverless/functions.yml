@@ -55,6 +55,19 @@ followPoliticians:
               id: true
         cors:
           origin: '*'
+getUserAndFollowedPoliticians:
+  handler: src/modules/user/controllers/GetUserAndFollowedPoliticiansController.getUserAndFollowedPoliticians
+  description: GET GetUserAndFollowedPoliticians
+  events:
+    - http:
+        path: users/{id}/politicians
+        method: get
+        request:
+          parameters:
+            paths:
+              id: true
+        cors:
+          origin: '*'
 getThemeAndNewestPropositions:
   handler: src/modules/theme/controllers/GetThemeAndNewestPropositionsController.getThemeAndNewestPropositions
   description: Get ThemeAndNewestPropositions
