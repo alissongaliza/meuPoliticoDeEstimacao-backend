@@ -22,7 +22,7 @@
   - [ ] Find politician and list its newest propositions
   - [ ] Follow politician
     - Notify user of every new proposition by this politician
-  - [ ] Follow several politicians at once
+  - [x] Follow several politicians at once
     - This happens when the user finishes ranking themes and the application suggest politicians to follow
 - :star: Extras
   - [ ] Watch themes
