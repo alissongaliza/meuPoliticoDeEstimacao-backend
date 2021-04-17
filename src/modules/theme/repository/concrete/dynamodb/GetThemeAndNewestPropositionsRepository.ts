@@ -26,15 +26,14 @@ export class GetThemeAndNewestPropositionsRepository implements IGetThemeAndNewe
 			ScanIndexForward: false,
 		};
 		const { Items } = await DynamoDBInstance.query(params).promise();
-		if (Items && Items.length > 1) {
+		if (Items && Items.length > 0) {
 			const dynamoTheme = <ThemeDynamodb>Items?.[0];
-			const dynamoPropositions = <PropositionDynamodb[]>Items.slice(1);
+			const dynamoPropositions = Items.length > 1 ? <PropositionDynamodb[]>Items.slice(1) : [];
 			const id = dynamoTheme.PK.split('#')?.[1];
 			const propositions = dynamoPropositions.map<Proposition>(({ PK }) =>
 				Proposition.create(PK.split('#')?.[1], '', '', [], [])
 			);
 			return Theme.create(id ?? dynamoTheme.PK, dynamoTheme.name, -1, propositions);
-		}
-		throw new EntityNotFound();
+		} else throw new EntityNotFound();
 	}
 }
