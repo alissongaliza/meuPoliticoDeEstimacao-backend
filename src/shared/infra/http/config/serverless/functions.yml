@@ -42,6 +42,19 @@ rankThemes:
           parameters:
             paths:
               id: true
+followManyPolitician:
+  handler: src/modules/user/controllers/FollowManyPoliticianController.followManyPolitician
+  description: Post FollowManyPolitician
+  events:
+    - http:
+        path: users/{id}/politicians
+        method: post
+        request:
+          parameters:
+            paths:
+              id: true
+        cors:
+          origin: '*'
 getThemeAndNewestPropositions:
   handler: src/modules/theme/controllers/GetThemeAndNewestPropositionsController.getThemeAndNewestPropositions
   description: Get ThemeAndNewestPropositions
