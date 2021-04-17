@@ -16,7 +16,7 @@
   - [x] Show rank stat of theme
     - Most relevant themes among users (show a #1/2/3 by the theme name)
   - [ ] Create proposition
-  - [ ] Find proposition and list its authors
+  - [x] Find proposition and list its authors
   - [ ] Create politician
   - [ ] Show follow count of politician
   - [ ] Find politician and list its newest propositions
