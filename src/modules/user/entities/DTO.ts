@@ -17,6 +17,6 @@ export interface Followee {
 	photoUrl: string;
 	partyCode: string;
 }
-export interface FollowManyPoliticianDTO {
+export interface FollowPoliticiansDTO {
 	followees: Followee[];
 }

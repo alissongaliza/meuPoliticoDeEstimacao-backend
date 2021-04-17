@@ -20,10 +20,8 @@
   - [ ] Create politician
   - [ ] Show follow count of politician
   - [ ] Find politician and list its newest propositions
-  - [ ] Follow politician
+  - [x] Follow politicians
     - Notify user of every new proposition by this politician
-  - [x] Follow several politicians at once
-    - This happens when the user finishes ranking themes and the application suggest politicians to follow
 - :star: Extras
   - [ ] Watch themes
     - Notify user of every new proposition in this theme

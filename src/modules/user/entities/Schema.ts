@@ -16,7 +16,7 @@ export const rankThemesSchema = joi.object().keys({
 	oldFavoriteThemes: joi.array().items(joi.string()).min(0).max(3).unique().required(),
 });
 
-export const followManyPoliticianSchema = joi.object().keys({
+export const followPoliticiansSchema = joi.object().keys({
 	followees: joi
 		.array()
 		.items(

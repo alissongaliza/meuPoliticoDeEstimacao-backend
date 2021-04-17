@@ -42,9 +42,9 @@ rankThemes:
           parameters:
             paths:
               id: true
-followManyPolitician:
-  handler: src/modules/user/controllers/FollowManyPoliticianController.followManyPolitician
-  description: Post FollowManyPolitician
+followPoliticians:
+  handler: src/modules/user/controllers/FollowPoliticiansController.followPoliticians
+  description: Post FollowPoliticians
   events:
     - http:
         path: users/{id}/politicians
