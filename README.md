@@ -33,19 +33,19 @@
 | Entity | PK | SK |
 | :------------ |:--------------| :-----|
 | User      | USER#\<Username> | USER#\<Username> |
-| Politician | POLITICIAN#\<PoliticianName>      | POLITICIAN#\<PoliticianName> |
-| Proposition | PROPOSITION#\<PropositionName>      | PROPOSITION#\<PropositionName> |
-| PropositionTheme | PROPOSITION#\<PropositionName>      | #THEME#\<ThemeName> |
-| PropositionAuthor | PROPOSITION#\<PropositionName>      | AUTHOR#\<AuthorName> |
-| PoliticianFollow | USER#\<UserName>POLITICIAN#\<PoliticianName>      | USER#\<UserName>POLITICIAN#\<PoliticianName> |
+| Politician | POLITICIAN#\<PoliticianId>      | POLITICIAN#\<PoliticianId> |
+| Proposition | PROPOSITION#\<PropositionId>      | PROPOSITION#\<PropositionId> |
+| PropositionTheme | PROPOSITION#\<PropositionId>      | THEME#\<ThemeId> |
+| PropositionAuthor | PROPOSITION#\<PropositionId>      | AUTHOR#\<AuthorId> |
+| PoliticianFollow | USER#\<UserName>POLITICIAN#\<PoliticianId>      | USER#\<UserName>POLITICIAN#\<PoliticianId> |
 | Themes | THEMES      | THEMES |
-| Theme | THEME#\<ThemeName>      | THEME#\<ThemeName> |
+| Theme | THEME#\<ThemeId>      | THEME#\<ThemeId> |
 
 
 | Entity | GSI1PK | GSI1SK |
 | :------------ |:--------------| :-----|
-|AuthorPropositions | AUTHOR#\<AuthorName>| PROPOSITION#\<PropositionName>|
-|ThemePropositions | THEME#\<ThemeName>| PROPOSITION#\<PropositionName>|
+|AuthorPropositions | AUTHOR#\<AuthorId>| PROPOSITION#\<PropositionId>|
+|ThemePropositions | THEME#\<ThemeId>| PROPOSITION#\<PropositionId>|
 
 <!-- | Entity | GSI2PK | GSI2SK |
 | :------------ |:--------------| :-----| -->
