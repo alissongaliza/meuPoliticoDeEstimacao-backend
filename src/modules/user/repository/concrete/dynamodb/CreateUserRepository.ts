@@ -2,7 +2,7 @@ import { DocumentClient } from 'aws-sdk/clients/dynamodb';
 
 import { DynamoDBInstance } from '../../../../../shared/infra/dynamodb/DynamoDBInstance';
 import { CreateUserDTO } from '../../../entities/DTO';
-import { UserDynamodb } from '../../../entities/UserDynamodb';
+import { UserDynamodb } from '../../../entities/Dynamodb';
 import { ICreateUserRepository } from '../../interface/ICreateUserRepository';
 
 export class CreateUserRepository implements ICreateUserRepository {
@@ -10,6 +10,8 @@ export class CreateUserRepository implements ICreateUserRepository {
 		const userDynamo: UserDynamodb = {
 			PK: `USER#${data.name}`,
 			SK: `USER#${data.name}`,
+			id: data.name,
+			name: data.name,
 			email: data.email,
 			favoriteThemes: data.favoriteThemes,
 		};

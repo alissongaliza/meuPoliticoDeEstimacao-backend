@@ -1,8 +1,15 @@
-export class User {
-	private constructor(private _name: string, private _email: string, private _favoriteThemes: string[]) {}
+import { Politician } from '../../politician/entities/Politician';
 
-	static create(name: string, email: string, favoriteThemes: string[]): User {
-		return new User(name, email, favoriteThemes);
+export class User {
+	private constructor(
+		private _name: string,
+		private _email: string,
+		private _favoriteThemes: string[],
+		private _followedPoliticians: Politician[]
+	) {}
+
+	static create(name: string, email: string, favoriteThemes: string[], followedPoliticians: Politician[]): User {
+		return new User(name, email, favoriteThemes, followedPoliticians);
 	}
 
 	get name(): string {
@@ -27,5 +34,13 @@ export class User {
 
 	set favoriteThemes(favoriteThemes: string[]) {
 		this._favoriteThemes = favoriteThemes;
+	}
+
+	get followedPoliticians(): Politician[] {
+		return this._followedPoliticians;
+	}
+
+	set followedPoliticians(followedPoliticians: Politician[]) {
+		this._followedPoliticians = followedPoliticians;
 	}
 }
