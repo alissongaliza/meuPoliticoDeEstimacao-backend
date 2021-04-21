@@ -21,13 +21,13 @@
   - [x] Show follow count of politician
   - [ ] Find politician and list its newest propositions
   - [x] Follow politicians
-    - Notify user of every new proposition by this politician
+    - [ ] Notify user of every new proposition by this politician
   - [x] List Politicians followed by user
 - :star: Extras
   - [ ] Watch themes
-    - Notify user of every new proposition in this theme
+    - [ ] Notify user of every new proposition in this theme
   - [ ] Find theme and list its politicians ordered by relevance in theme
-    - Most contributions by period (last `x` years)
+    - [ ] Most contributions by period (last `x` years)
 
 ### Dynamodb Entity chart
 
