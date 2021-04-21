@@ -8,9 +8,10 @@ export class FollowPoliticiansUsecase {
 		private readonly followSinglePoliticianRepository: IFollowSinglePoliticianRepository
 	) {}
 
-	async followPoliticians(userName: string, followees: Followee[]): Promise<boolean> {
-		return await (followees.length === 1
-			? this.followSinglePoliticianRepository.followSinglePolitician(userName, followees[0])
-			: this.followManyPoliticiansRepository.followManyPoliticians(userName, followees));
+	async followPoliticians(userName: string, followees: Followee[]): Promise<any[]> {
+		if (followees.length === 1) {
+			const followed = this.followSinglePoliticianRepository.followSinglePolitician(userName, followees[0]);
+			return followed ? [] : [followed];
+		} else return this.followManyPoliticiansRepository.followManyPoliticians(userName, followees);
 	}
 }
