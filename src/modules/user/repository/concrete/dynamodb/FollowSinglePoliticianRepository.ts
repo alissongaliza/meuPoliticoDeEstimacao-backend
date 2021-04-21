@@ -45,10 +45,18 @@ export class FollowSinglePoliticianRepository implements IFollowSinglePolitician
 			return true;
 		} catch (e) {
 			if (e.code === 'TransactionCanceledException' && e.message.includes('ConditionalCheckFailed'))
-				throw new ConditionError('User already follows this Politician', { userName, followee });
+				throw new ConditionError('User already follows this Politician', {
+					reason: 'User already follows this Politician',
+					userName,
+					followee,
+				});
 			else if (e.code === 'ValidationException')
-				throw new EntityNotFoundError('Politician does not exist', { userName, followee });
-			else throw new DatabaseError(e, { userName, followee });
+				throw new EntityNotFoundError('Politician does not exist', {
+					reason: 'Politician does not exist',
+					userName,
+					followee,
+				});
+			else throw new DatabaseError(e, { reason: userName, followee });
 		}
 	}
 }

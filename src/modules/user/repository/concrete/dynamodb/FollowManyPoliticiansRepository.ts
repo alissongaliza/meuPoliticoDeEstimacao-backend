@@ -9,9 +9,9 @@ export class FollowManyPoliticiansRepository implements IFollowManyPoliticiansRe
 			followSinglePoliticianRepository.followSinglePolitician(userName, followee)
 		);
 		const results = await Promise.allSettled(promises);
-		const rejected = (results.filter(
-			(result) => result.status === 'rejected'
-		) as PromiseRejectedResult[]).map((result) => ({ reason: result.reason, context: result.reason?.context }));
+		const rejected = (results.filter((result) => result.status === 'rejected') as PromiseRejectedResult[]).map(
+			(result) => result.reason?.context
+		);
 		return rejected;
 	}
 }

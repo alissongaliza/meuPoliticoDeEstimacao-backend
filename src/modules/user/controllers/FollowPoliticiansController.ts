@@ -23,9 +23,9 @@ export const followPoliticians: APIGatewayProxyHandler = async (event): Promise<
 	try {
 		const body: FollowPoliticiansDTO = await requestHandler.validateBody(event.body, followPoliticiansSchema);
 		const followed = await followPoliticiansUsecase.followPoliticians(event.pathParameters?.id || '', body.followees);
-		if (followed) {
-			return requestHandler.success(204);
-		}
+		if (followed.length > 0) {
+			return requestHandler.customError(409, 'Some follows failed to proccess', { failed: followed });
+		} else return requestHandler.success(200);
 	} catch (error) {
 		if (error instanceof BaseHttpError) return requestHandler.error(error);
 		else return requestHandler.error(new InternalServerException(error));

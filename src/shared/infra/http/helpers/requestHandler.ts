@@ -54,11 +54,11 @@ export class HttpRequestService {
 		});
 	}
 
-	customError(statusCode: number, message = ''): Promise<any> {
+	customError(statusCode: number, message = '', body = {}): Promise<any> {
 		return Promise.resolve({
 			headers: headers,
 			statusCode,
-			body: message,
+			body: JSON.stringify({ message, data: body }),
 		});
 	}
 
