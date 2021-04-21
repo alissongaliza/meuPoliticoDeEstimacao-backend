@@ -28,6 +28,6 @@ export const followPoliticians: APIGatewayProxyHandler = async (event): Promise<
 		}
 	} catch (error) {
 		if (error instanceof BaseHttpError) return requestHandler.error(error);
-		return requestHandler.error(new InternalServerException(error));
+		else return requestHandler.error(new InternalServerException(error));
 	}
 };

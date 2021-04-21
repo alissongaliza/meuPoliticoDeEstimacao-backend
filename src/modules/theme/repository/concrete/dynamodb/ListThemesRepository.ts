@@ -1,6 +1,6 @@
 import { DocumentClient } from 'aws-sdk/clients/dynamodb';
 
-import { EntityNotFound } from '../../../../../shared/exceptions/EntityNotFound';
+import { EntityNotFoundError } from '../../../../../shared/exceptions/domain/EntityNotFoundError';
 import { DynamoDBInstance } from '../../../../../shared/infra/dynamodb/DynamoDBInstance';
 import { ThemesDynamodb } from '../../../entities/Dynamodb';
 import { Theme } from '../../../entities/Theme';
@@ -20,7 +20,6 @@ export class ListThemesRepository implements IListThemesRepository {
 			const dynamoThemes = <ThemesDynamodb>Item;
 			const themes = Object.values(dynamoThemes.themes).map(({ id, name, count }) => Theme.create(id, name, count));
 			return themes;
-		}
-		throw new EntityNotFound();
+		} else throw new EntityNotFoundError('Themes does not exist');
 	}
 }

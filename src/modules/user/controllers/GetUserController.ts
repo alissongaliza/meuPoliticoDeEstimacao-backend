@@ -1,6 +1,6 @@
 import { APIGatewayProxyHandler } from 'aws-lambda';
 
-import { EntityNotFound } from '../../../shared/exceptions/EntityNotFound';
+import { EntityNotFoundError } from '../../../shared/exceptions/domain/EntityNotFoundError';
 import { InternalServerException } from '../../../shared/infra/http/errors/http_server_error';
 import { HttpRequestService } from '../../../shared/infra/http/helpers/requestHandler';
 import { GetUserRepository } from '../repository/concrete/dynamodb/GetUserRepository';
@@ -18,7 +18,7 @@ export const getUser: APIGatewayProxyHandler = async (event): Promise<any> => {
 			return requestHandler.success(200, user);
 		}
 	} catch (error) {
-		if (error instanceof EntityNotFound) return requestHandler.customError(404);
+		if (error instanceof EntityNotFoundError) return requestHandler.customError(404);
 		return requestHandler.error(new InternalServerException(error));
 	}
 };

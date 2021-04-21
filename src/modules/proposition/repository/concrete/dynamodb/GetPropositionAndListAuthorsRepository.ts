@@ -1,6 +1,6 @@
 import { DocumentClient } from 'aws-sdk/clients/dynamodb';
 
-import { EntityNotFound } from '../../../../../shared/exceptions/EntityNotFound';
+import { EntityNotFoundError } from '../../../../../shared/exceptions/domain/EntityNotFoundError';
 import { DynamoDBInstance } from '../../../../../shared/infra/dynamodb/DynamoDBInstance';
 import { AuthorDynamodb } from '../../../../politician/entities/Dynamodb';
 import { Politician } from '../../../../politician/entities/Politician';
@@ -46,6 +46,6 @@ export class GetPropositionAndListAuthorsRepository implements IGetPropositionAn
 				authors,
 				[]
 			);
-		} else throw new EntityNotFound();
+		} else throw new EntityNotFoundError(`Proposition with id of ${id} does not exist`);
 	}
 }

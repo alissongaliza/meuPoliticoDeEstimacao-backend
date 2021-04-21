@@ -1,6 +1,6 @@
 import { DocumentClient } from 'aws-sdk/clients/dynamodb';
 
-import { EntityNotFound } from '../../../../../shared/exceptions/EntityNotFound';
+import { EntityNotFoundError } from '../../../../../shared/exceptions/domain/EntityNotFoundError';
 import { DynamoDBInstance } from '../../../../../shared/infra/dynamodb/DynamoDBInstance';
 import { UserDynamodb } from '../../../entities/Dynamodb';
 import { User } from '../../../entities/User';
@@ -20,6 +20,6 @@ export class GetUserRepository implements IGetUserRepository {
 			const foundUser = <UserDynamodb>Item;
 			return User.create(foundUser.PK, foundUser.email, foundUser.favoriteThemes, []);
 		}
-		throw new EntityNotFound();
+		throw new EntityNotFoundError(`User with id of ${name} does not exist`);
 	}
 }

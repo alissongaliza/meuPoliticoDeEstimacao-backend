@@ -1,6 +1,6 @@
 import { DocumentClient } from 'aws-sdk/clients/dynamodb';
 
-import { EntityNotFound } from '../../../../../shared/exceptions/EntityNotFound';
+import { EntityNotFoundError } from '../../../../../shared/exceptions/domain/EntityNotFoundError';
 import { DynamoDBInstance } from '../../../../../shared/infra/dynamodb/DynamoDBInstance';
 import { PropositionDynamodb } from '../../../../proposition/entities/Dynamodb';
 import { Proposition } from '../../../../proposition/entities/Proposition';
@@ -34,6 +34,6 @@ export class GetThemeAndNewestPropositionsRepository implements IGetThemeAndNewe
 				Proposition.create(PK.split('#')?.[1], '', '', [], [])
 			);
 			return Theme.create(id ?? dynamoTheme.PK, dynamoTheme.name, -1, propositions);
-		} else throw new EntityNotFound();
+		} else throw new EntityNotFoundError(`Theme with id of ${id} does not exist`);
 	}
 }

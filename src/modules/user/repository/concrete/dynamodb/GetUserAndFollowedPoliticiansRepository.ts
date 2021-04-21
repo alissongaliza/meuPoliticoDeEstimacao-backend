@@ -1,6 +1,6 @@
 import { DocumentClient } from 'aws-sdk/clients/dynamodb';
 
-import { EntityNotFound } from '../../../../../shared/exceptions/EntityNotFound';
+import { EntityNotFoundError } from '../../../../../shared/exceptions/domain/EntityNotFoundError';
 import { DynamoDBInstance } from '../../../../../shared/infra/dynamodb/DynamoDBInstance';
 import { Politician } from '../../../../politician/entities/Politician';
 import { FolloweeDynamodb, UserDynamodb } from '../../../entities/Dynamodb';
@@ -38,6 +38,6 @@ export class GetUserAndFollowedPoliticiansRepository implements IGetUserAndFollo
 					Politician.create(politicianId, politicianName, '', '', politicianPhotoUrl, '', politicianPartyCode, '', [])
 			);
 			return User.create(dynamoUser.name, dynamoUser.email, [], politicians);
-		} else throw new EntityNotFound();
+		} else throw new EntityNotFoundError(`User with id of ${userId} does not exist`);
 	}
 }

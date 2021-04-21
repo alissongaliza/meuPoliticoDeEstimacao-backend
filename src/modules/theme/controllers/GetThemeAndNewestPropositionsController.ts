@@ -1,6 +1,6 @@
 import { APIGatewayProxyHandler } from 'aws-lambda';
 
-import { EntityNotFound } from '../../../shared/exceptions/EntityNotFound';
+import { EntityNotFoundError } from '../../../shared/exceptions/domain/EntityNotFoundError';
 import { InternalServerException } from '../../../shared/infra/http/errors/http_server_error';
 import { HttpRequestService } from '../../../shared/infra/http/helpers/requestHandler';
 import { GetThemeAndNewestPropositionsRepository } from '../repository/concrete/dynamodb/GetThemeAndNewestPropositionsRepository';
@@ -24,7 +24,7 @@ export const getThemeAndNewestPropositions: APIGatewayProxyHandler = async (even
 			return requestHandler.success(200, theme);
 		}
 	} catch (error) {
-		if (error instanceof EntityNotFound) return requestHandler.customError(404);
+		if (error instanceof EntityNotFoundError) return requestHandler.customError(404);
 		return requestHandler.error(new InternalServerException(error));
 	}
 };
