@@ -18,7 +18,7 @@
   - [ ] Create proposition
   - [x] Find proposition and list its authors
   - [ ] Create politician
-  - [ ] Show follow count of politician
+  - [x] Show follow count of politician
   - [ ] Find politician and list its newest propositions
   - [x] Follow politicians
     - Notify user of every new proposition by this politician
