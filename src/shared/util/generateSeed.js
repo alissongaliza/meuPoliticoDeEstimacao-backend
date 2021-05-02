@@ -8,39 +8,45 @@ const _flatten = require('lodash/flatten');
 const fetch = require('node-fetch');
 
 const getData = async () => {
-	const data = _range(2015, 2016).map((year) => {
+	const allPropositionsSet = new Set();
+	const data = _range(2019, 2021).map((year) => {
 		let { dados: propositions } = require(`${process.env.SOURCE_FILES_PATH}/proposicoes-${year}`);
-		propositions = _groupBy(propositions, 'id');
-		propositions = Object.keys(propositions).map((id) => {
-			const { uri = '', ementa = '', keywords = [] } = propositions[id][0];
-			const rawNonEmptyTags = keywords.split(',').filter(Boolean);
-			const tags = rawNonEmptyTags.map((el) => el.trim());
-			if (tags.length > 0) tags[tags.length - 1] = tags[tags.length - 1].substring(0, tags.length - 1);
-			return {
-				PK: `PROPOSITION#${id}`,
-				SK: `PROPOSITION#${id}`,
-				uri,
-				ementa,
-				id,
-				tags,
-			};
-		});
+		propositions = propositions
+			.filter((el) => el.codTipo == '136' || el.codTipo == '139')
+			.map((proposition) => {
+				const { uri = '', ementa = '', keywords = [], id } = proposition;
+				allPropositionsSet.add(id + '');
+				const rawNonEmptyTags = keywords.split(',').filter(Boolean);
+				const tags = rawNonEmptyTags.map((el) => el.trim());
+				if (tags.length > 0) tags[tags.length - 1] = tags[tags.length - 1].substring(0, tags.length - 1);
+				return {
+					PK: `PROPOSITION#${id}`,
+					SK: `PROPOSITION#${id}`,
+					uri,
+					ementa,
+					id,
+					tags,
+				};
+			});
+
 		let { dados: propositionsTheme } = require(`${process.env.SOURCE_FILES_PATH}/proposicoesTemas-${year}`);
-		propositionsTheme = propositionsTheme.map(({ codTema, uriProposicao }) => {
-			const propositionId = uriProposicao.split('proposicoes/')[1];
-			return {
-				PK: `PROPOSITION#${propositionId}`,
-				SK: `THEME#${codTema}`,
-				GSI1PK: `THEME#${codTema}`,
-				GSI1SK: `#PROPOSITION#${propositionId}`,
-				themeId: codTema + '',
-				propositionId,
-			};
-		});
+		propositionsTheme = propositionsTheme
+			.filter(({ uriProposicao }) => allPropositionsSet.has(uriProposicao.split('proposicoes/')[1] + ''))
+			.map(({ codTema, uriProposicao }) => {
+				const propositionId = uriProposicao.split('proposicoes/')[1];
+				return {
+					PK: `PROPOSITION#${propositionId}`,
+					SK: `THEME#${codTema}`,
+					GSI1PK: `THEME#${codTema}`,
+					GSI1SK: `#PROPOSITION#${propositionId}`,
+					themeId: codTema + '',
+					propositionId,
+				};
+			});
 
 		let { dados: propositionsAuthors } = require(`${process.env.SOURCE_FILES_PATH}/proposicoesAutores-${year}`);
 		propositionsAuthors = propositionsAuthors
-			.filter((el) => el.idDeputadoAutor !== undefined)
+			.filter((el) => el.idDeputadoAutor !== undefined && allPropositionsSet.has(el.idProposicao + ''))
 			.map(({ idProposicao, idDeputadoAutor }) => ({
 				PK: `PROPOSITION#${idProposicao}`,
 				SK: `POLITICIAN#${idDeputadoAutor}`,
