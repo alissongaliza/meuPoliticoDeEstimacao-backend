@@ -40,6 +40,7 @@
 	},
 	"dependencies": {
 		"aws-sdk": "^2.768.0",
+		"dotenv": "^8.2.0",
 		"joi": "^17.2.1",
 		"jsonschema": "^1.2.6",
 		"lodash": "^4.17.20",

@@ -1,6 +1,7 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable import/no-absolute-path */
 
+require('dotenv').config();
 const _range = require('lodash/range');
 const _groupBy = require('lodash/groupBy');
 const _flatten = require('lodash/flatten');
@@ -8,7 +9,7 @@ const fetch = require('node-fetch');
 
 const getData = async () => {
 	const data = _range(2015, 2016).map((year) => {
-		let { dados: propositions } = require(`/media/alisson/Linux/Downloads/proposicoes-${year}`);
+		let { dados: propositions } = require(`${process.env.SOURCE_FILES_PATH}/proposicoes-${year}`);
 		propositions = _groupBy(propositions, 'id');
 		propositions = Object.keys(propositions).map((id) => {
 			const { uri = '', ementa = '', keywords = [] } = propositions[id][0];
@@ -24,7 +25,7 @@ const getData = async () => {
 				tags,
 			};
 		});
-		let { dados: propositionsTheme } = require(`/media/alisson/Linux/Downloads/proposicoesTemas-${year}`);
+		let { dados: propositionsTheme } = require(`${process.env.SOURCE_FILES_PATH}/proposicoesTemas-${year}`);
 		propositionsTheme = propositionsTheme.map(({ codTema, uriProposicao }) => {
 			const propositionId = uriProposicao.split('proposicoes/')[1];
 			return {
@@ -37,7 +38,7 @@ const getData = async () => {
 			};
 		});
 
-		let { dados: propositionsAuthors } = require(`/media/alisson/Linux/Downloads/proposicoesAutores-${year}`);
+		let { dados: propositionsAuthors } = require(`${process.env.SOURCE_FILES_PATH}/proposicoesAutores-${year}`);
 		propositionsAuthors = propositionsAuthors
 			.filter((el) => el.idDeputadoAutor !== undefined)
 			.map(({ idProposicao, idDeputadoAutor }) => ({
@@ -86,7 +87,7 @@ async function getThemes() {
 }
 
 async function getPoliticians() {
-	let { dados: politicians } = require(`/media/alisson/Linux/Downloads/deputados`);
+	let { dados: politicians } = require(`${process.env.SOURCE_FILES_PATH}/deputados`);
 
 	politicians = politicians.reduce((acc, politician) => {
 		const id = politician.uri.split('deputados/')[1] != undefined ? politician.uri.split('deputados/')[1] : '-1';
@@ -131,7 +132,7 @@ function writeToFile(data) {
 	const fs = require('fs');
 	try {
 		fs.writeFile(
-			'/home/alisson/rep/meuPoliticoDeEstimacao-backend/src/shared/infra/dynamodb/newSeed.json',
+			`${process.env.BASE_PROJECT_PATH}/src/shared/infra/dynamodb/newSeed.json`,
 			JSON.stringify(data, null, 4),
 			(err, result) => {
 				if (err) console.info(err);
