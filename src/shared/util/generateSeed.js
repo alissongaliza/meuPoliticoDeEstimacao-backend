@@ -100,7 +100,7 @@ async function getPoliticians() {
 		return {
 			...acc,
 			[id]: {
-				name: politician.nomeCivil,
+				civilName: politician.nomeCivil,
 				gender: politician.siglaSexo,
 				bornOn: politician.dataNascimento,
 				diedOn: politician.dataFalecimento,
@@ -111,12 +111,18 @@ async function getPoliticians() {
 			},
 		};
 	}, {});
-	const { dados } = await fetch(
-		'https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome'
-	).then((response) => response.json());
+	let apiPoliticians = [];
+	let link = `https://dadosabertos.camara.leg.br/api/v2/deputados?dataInicio=1930-01-01&ordem=ASC&ordenarPor=nome`;
+	while (link) {
+		const { dados: data, links } = await fetch(link).then((response) => response.json());
+		const next = links.find((el) => el.rel === 'next');
+		link = next && next.href;
+		apiPoliticians.push(data);
+	}
+	apiPoliticians = _flatten(apiPoliticians);
 
-	return dados.map((pol) => {
-		const generalPoliticianData = politicians[pol.id];
+	return apiPoliticians.map((pol) => {
+		const generalPoliticianData = politicians[pol.id] || {};
 		return {
 			...generalPoliticianData,
 			PK: `POLITICIAN#${pol.id}`,
