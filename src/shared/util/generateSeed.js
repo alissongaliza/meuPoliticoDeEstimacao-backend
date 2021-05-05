@@ -7,15 +7,18 @@ const _groupBy = require('lodash/groupBy');
 const _flatten = require('lodash/flatten');
 const fetch = require('node-fetch');
 
+const earliestYear = 2019;
+const latestYear = 2021;
+
 const getData = async () => {
-	const allPropositionsSet = new Set();
-	const data = _range(2019, 2021).map((year) => {
+	const validPropositionsHash = {};
+	const data = _range(earliestYear, latestYear).map((year) => {
 		let { dados: propositions } = require(`${process.env.SOURCE_FILES_PATH}/proposicoes-${year}`);
 		propositions = propositions
 			.filter((el) => el.codTipo == '136' || el.codTipo == '139')
 			.map((proposition) => {
 				const { uri = '', ementa = '', keywords = [], id } = proposition;
-				allPropositionsSet.add(id + '');
+				validPropositionsHash[id + ''] = [];
 				const rawNonEmptyTags = keywords.split(',').filter(Boolean);
 				const tags = rawNonEmptyTags.map((el) => el.trim());
 				if (tags.length > 0) tags[tags.length - 1] = tags[tags.length - 1].substring(0, tags.length - 1);
@@ -29,11 +32,12 @@ const getData = async () => {
 				};
 			});
 
-		let { dados: propositionsTheme } = require(`${process.env.SOURCE_FILES_PATH}/proposicoesTemas-${year}`);
-		propositionsTheme = propositionsTheme
-			.filter(({ uriProposicao }) => allPropositionsSet.has(uriProposicao.split('proposicoes/')[1] + ''))
+		let { dados: propositionsAndThemes } = require(`${process.env.SOURCE_FILES_PATH}/proposicoesTemas-${year}`);
+		propositionsAndThemes = propositionsAndThemes
+			.filter(({ uriProposicao }) => !!validPropositionsHash[uriProposicao.split('proposicoes/')[1] + ''])
 			.map(({ codTema, uriProposicao }) => {
 				const propositionId = uriProposicao.split('proposicoes/')[1];
+				validPropositionsHash[propositionId + ''].push(codTema + '');
 				return {
 					PK: `PROPOSITION#${propositionId}`,
 					SK: `THEME#${codTema}`,
@@ -44,9 +48,9 @@ const getData = async () => {
 				};
 			});
 
-		let { dados: propositionsAuthors } = require(`${process.env.SOURCE_FILES_PATH}/proposicoesAutores-${year}`);
-		propositionsAuthors = propositionsAuthors
-			.filter((el) => el.idDeputadoAutor !== undefined && allPropositionsSet.has(el.idProposicao + ''))
+		const { dados: propositionsAuthors } = require(`${process.env.SOURCE_FILES_PATH}/proposicoesAutores-${year}`);
+		const authorsAndPropositions = propositionsAuthors
+			.filter((el) => el.idDeputadoAutor !== undefined && !!validPropositionsHash[el.idProposicao + ''])
 			.map(({ idProposicao, idDeputadoAutor }) => ({
 				PK: `PROPOSITION#${idProposicao}`,
 				SK: `POLITICIAN#${idDeputadoAutor}`,
@@ -54,7 +58,24 @@ const getData = async () => {
 				propositionId: idDeputadoAutor + '',
 			}));
 
-		return [...propositions, ...propositionsTheme, ...propositionsAuthors];
+		const authorsThemesTrackHash = {};
+		propositionsAuthors
+			.filter((el) => el.idDeputadoAutor !== undefined && !!validPropositionsHash[el.idProposicao + ''])
+			.map(({ idProposicao, idDeputadoAutor }) => {
+				const themes = validPropositionsHash[idProposicao + ''] || [];
+				return themes.map((themeId) => {
+					const key = `THEME#${themeId}POLITICIAN#${idDeputadoAutor}`;
+					authorsThemesTrackHash[key] = {
+						PK: `THEME#${themeId}`,
+						SK: `POLITICIAN#${idDeputadoAutor}`,
+						count: (authorsThemesTrackHash[key] && authorsThemesTrackHash[key].count + 1) || 1,
+					};
+				});
+			});
+
+		const authorsAndThemes = Object.values(authorsThemesTrackHash);
+
+		return [...propositions, ...propositionsAndThemes, ...authorsAndPropositions, ...authorsAndThemes];
 	});
 
 	const flattenData = _flatten(data);
