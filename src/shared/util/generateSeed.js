@@ -70,6 +70,8 @@ const getData = async () => {
 					authorsThemesTrackHash[key] = {
 						PK: `THEME#${themeId}`,
 						SK: `POLITICIAN#${idDeputadoAutor}`,
+						themeId,
+						authorId: idDeputadoAutor,
 						count,
 						GS1PK: `THEME#${themeId}`,
 						GS1SK: `${paddedCount}POLITICIAN#${idDeputadoAutor}`,
