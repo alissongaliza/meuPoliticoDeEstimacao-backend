@@ -65,10 +65,14 @@ const getData = async () => {
 				const themes = validPropositionsHash[idProposicao + ''] || [];
 				return themes.map((themeId) => {
 					const key = `THEME#${themeId}POLITICIAN#${idDeputadoAutor}`;
+					const count = (authorsThemesTrackHash[key] && authorsThemesTrackHash[key].count + 1) || 1;
+					const paddedCount = count.toString().padStart(5, '0');
 					authorsThemesTrackHash[key] = {
 						PK: `THEME#${themeId}`,
 						SK: `POLITICIAN#${idDeputadoAutor}`,
-						count: (authorsThemesTrackHash[key] && authorsThemesTrackHash[key].count + 1) || 1,
+						count,
+						GS1PK: `THEME#${themeId}`,
+						GS1SK: `${paddedCount}POLITICIAN#${idDeputadoAutor}`,
 					};
 				});
 			});
