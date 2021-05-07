@@ -50,7 +50,7 @@
 | Entity | GSI1PK | GSI1SK |
 | :------------ |:--------------| :-----|
 |AuthorPropositions | AUTHOR#\<AuthorId>| PROPOSITION#\<PropositionId>|
-|ThemePropositions | THEME#\<ThemeId>| PROPOSITION#\<PropositionId>|
+|ThemePropositions | THEME#\<ThemeId>| #PROPOSITION#\<PropositionId>|
 |PoliticianFollowees | POLITICIAN#\<PoliticianId>      | USER#\<UserName> |
 |PoliticianThemeOrderedByCount | THEME#\<PoliticianId>      | \<ZeroPaddedContributionToThemeCount>POLITICIAN#\<PoliticianId> |
 

@@ -103,3 +103,18 @@ getPropositionAndListAuthors:
               id: true
         cors:
           origin: '*'
+listRelevantPoliticiansByTheme:
+  handler: src/modules/politician/controllers/ListRelevantPoliticiansByThemeController.listRelevantPoliticiansByTheme
+  description: List relevant politicians by theme
+  events:
+    - http:
+        path: themes/authors
+        method: get
+        request:
+          parameters:
+            query:
+              first: true
+              second: true
+              third: true
+        cors:
+          origin: '*'
