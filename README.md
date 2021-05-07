@@ -41,13 +41,15 @@
 | PropositionAuthor | PROPOSITION#\<PropositionId>      | AUTHOR#\<AuthorId> |
 | Themes | THEMES      | THEMES |
 | Theme | THEME#\<ThemeId>      | THEME#\<ThemeId> |
+| PoliticianTheme | THEME#\<PoliticianId>      | POLITICIAN#\<PoliticianId> |
 
 
 | Entity | GSI1PK | GSI1SK |
 | :------------ |:--------------| :-----|
 |AuthorPropositions | AUTHOR#\<AuthorId>| PROPOSITION#\<PropositionId>|
 |ThemePropositions | THEME#\<ThemeId>| PROPOSITION#\<PropositionId>|
-| PoliticianFollowees | POLITICIAN#\<PoliticianId>      | USER#\<UserName> |
+|PoliticianFollowees | POLITICIAN#\<PoliticianId>      | USER#\<UserName> |
+|PoliticianThemeOrderedByCount | THEME#\<PoliticianId>      | \<ZeroPaddedContributionToThemeCount>POLITICIAN#\<PoliticianId> |
 
 <!-- | Entity | GSI2PK | GSI2SK |
 | :------------ |:--------------| :-----| -->
