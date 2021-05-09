@@ -1,12 +1,12 @@
-export interface PoliticianIdAndTheme {
+export interface PoliticiansIdAndTheme {
 	themeId: string;
-	politiciansIds: string[];
+	politicians: { authorId: string; count: number }[];
 }
 
 export interface RelevantPoliticiansByTheme {
-	firstTheme: PoliticianIdAndTheme;
-	secondTheme: PoliticianIdAndTheme;
-	thirdTheme: PoliticianIdAndTheme;
+	firstTheme: PoliticiansIdAndTheme;
+	secondTheme: PoliticiansIdAndTheme;
+	thirdTheme: PoliticiansIdAndTheme;
 }
 
 export interface FindRelevantPoliticiansByThemeDTO {

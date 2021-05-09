@@ -20,11 +20,10 @@ export const listRelevantPoliticiansByTheme: APIGatewayProxyHandler = async (eve
 			event.queryStringParameters?.second ?? '',
 			event.queryStringParameters?.third ?? '',
 		];
-		console.info(themesId);
 		const politicians = await listRelevantPoliticiansByThemeUsecase.listRelevantPoliticiansByTheme(themesId);
-		// if (politicians) {
-		return requestHandler.success(200);
-		// }
+		if (politicians) {
+			return requestHandler.success(200, politicians);
+		}
 	} catch (error) {
 		if (error instanceof EntityNotFoundError) return requestHandler.customError(404);
 		return requestHandler.error(new InternalServerException(error));

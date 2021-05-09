@@ -112,7 +112,7 @@ listRelevantPoliticiansByTheme:
         method: get
         request:
           parameters:
-            query:
+            querystrings:
               first: true
               second: true
               third: true

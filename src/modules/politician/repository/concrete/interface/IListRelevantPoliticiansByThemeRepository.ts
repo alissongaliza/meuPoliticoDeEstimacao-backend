@@ -1,5 +1,5 @@
-import { PoliticianIdAndTheme } from '../../../entities/DTO';
+import { PoliticiansIdAndTheme } from '../../../entities/DTO';
 
 export interface IListRelevantPoliticiansByThemeRepository {
-	listRelevantPoliticiansByTheme(id: string): Promise<PoliticianIdAndTheme>;
+	listRelevantPoliticiansByTheme(id: string): Promise<PoliticiansIdAndTheme>;
 }
