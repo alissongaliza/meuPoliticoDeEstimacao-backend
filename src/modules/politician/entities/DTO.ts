@@ -1,6 +1,6 @@
 export interface PoliticiansIdAndTheme {
 	themeId: string;
-	politicians: { authorId: string; count: number }[];
+	politicians: { authorId: string; authorName: string; count: number }[];
 }
 
 export interface RelevantPoliticiansByTheme {

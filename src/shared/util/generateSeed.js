@@ -55,17 +55,18 @@ function getAuthorsPropositions(year) {
 	const { dados: propositionsAuthors } = require(`${process.env.SOURCE_FILES_PATH}/proposicoesAutores-${year}`);
 	return propositionsAuthors
 		.filter((el) => el.idDeputadoAutor !== undefined && !!validPropositionsHash[el.idProposicao + ''])
-		.map(({ idProposicao, idDeputadoAutor }) => ({
+		.map(({ idProposicao, idDeputadoAutor, nomeAutor }) => ({
 			PK: `PROPOSITION#${idProposicao}`,
 			SK: `POLITICIAN#${idDeputadoAutor}`,
 			politicianId: idDeputadoAutor + '',
 			propositionId: idProposicao + '',
+			authorName: nomeAutor,
 		}));
 }
 
 function getAuthorsThemesTrackHash(propositionsAuthors) {
 	const authorsThemesTrackHash = {};
-	propositionsAuthors.map(({ propositionId, politicianId }) => {
+	propositionsAuthors.map(({ propositionId, politicianId, authorName }) => {
 		const themes = validPropositionsHash[propositionId + ''] || [];
 		return themes.map((themeId) => {
 			const key = `THEME#${themeId}POLITICIAN#${politicianId}`;
@@ -79,6 +80,7 @@ function getAuthorsThemesTrackHash(propositionsAuthors) {
 				count,
 				GSI1PK: `THEME#${themeId}`,
 				GSI1SK: `z${paddedCount}POLITICIAN#${politicianId}`,
+				authorName,
 			};
 		});
 	});

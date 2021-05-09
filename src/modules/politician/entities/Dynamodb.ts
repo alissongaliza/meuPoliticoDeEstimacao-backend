@@ -10,6 +10,7 @@ export interface AuthorThemeDynamodb {
 	SK: string;
 	themeId: string;
 	authorId: string;
+	authorName: string;
 	GSI1PK: string;
 	GSI1SK: string;
 	count: number;

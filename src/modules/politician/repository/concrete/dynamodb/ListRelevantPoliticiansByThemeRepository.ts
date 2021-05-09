@@ -28,6 +28,7 @@ export class ListRelevantPoliticiansByThemeRepository implements IListRelevantPo
 			const politicians = (Items as AuthorThemeDynamodb[]).map((el) => ({
 				authorId: el.authorId,
 				count: el.count,
+				authorName: el.authorName,
 			}));
 			return { themeId: id, politicians };
 		} else throw new EntityNotFoundError(`Theme with id of ${id} does not exist`);

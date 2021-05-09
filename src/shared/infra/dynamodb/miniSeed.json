@@ -126,31 +126,36 @@
         "PK": "PROPOSITION#2264061",
         "SK": "POLITICIAN#204476",
         "politicianId": "204476",
-        "propositionId": "2264061"
+        "propositionId": "2264061",
+        "authorName": "Chiquinho Brazão"
     },
     {
         "PK": "PROPOSITION#2264052",
         "SK": "POLITICIAN#204544",
         "politicianId": "204544",
-        "propositionId": "2264052"
+        "propositionId": "2264052",
+        "authorName": "Alexandre Frota"
     },
     {
         "PK": "PROPOSITION#2264051",
         "SK": "POLITICIAN#72442",
         "politicianId": "72442",
-        "propositionId": "2264051"
+        "propositionId": "2264051",
+        "authorName": "Felipe Carreras"
     },
     {
         "PK": "PROPOSITION#2264050",
         "SK": "POLITICIAN#178925",
         "politicianId": "178925",
-        "propositionId": "2264050"
+        "propositionId": "2264050",
+        "authorName": "Rejane Dias"
     },
     {
         "PK": "PROPOSITION#2264049",
         "SK": "POLITICIAN#178925",
         "politicianId": "178925",
-        "propositionId": "2264049"
+        "propositionId": "2264049",
+        "authorName": "Rejane Dias"
     },
     {
         "PK": "THEME#70",
@@ -159,7 +164,8 @@
         "authorId": "204476",
         "count": 2,
         "GSI1PK": "THEME#70",
-        "GSI1SK": "z00002POLITICIAN#204476"
+        "GSI1SK": "z00002POLITICIAN#204476",
+        "authorName": "Chiquinho Brazão"
     },
     {
         "PK": "THEME#58",
@@ -168,7 +174,8 @@
         "authorId": "204476",
         "count": 2,
         "GSI1PK": "THEME#58",
-        "GSI1SK": "z00002POLITICIAN#204476"
+        "GSI1SK": "z00002POLITICIAN#204476",
+        "authorName": "Chiquinho Brazão"
     },
     {
         "PK": "THEME#61",
@@ -177,7 +184,8 @@
         "authorId": "204476",
         "count": 1,
         "GSI1PK": "THEME#61",
-        "GSI1SK": "z00001POLITICIAN#204476"
+        "GSI1SK": "z00001POLITICIAN#204476",
+        "authorName": "Chiquinho Brazão"
     },
     {
         "PK": "THEME#34",
@@ -186,7 +194,8 @@
         "authorId": "204544",
         "count": 36,
         "GSI1PK": "THEME#34",
-        "GSI1SK": "z00036POLITICIAN#204544"
+        "GSI1SK": "z00036POLITICIAN#204544",
+        "authorName": "Alexandre Frota"
     },
     {
         "PK": "THEME#44",
@@ -195,7 +204,8 @@
         "authorId": "204544",
         "count": 75,
         "GSI1PK": "THEME#44",
-        "GSI1SK": "z00075POLITICIAN#204544"
+        "GSI1SK": "z00075POLITICIAN#204544",
+        "authorName": "Alexandre Frota"
     },
     {
         "themes": {
