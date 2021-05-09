@@ -41,7 +41,7 @@ custom:
       dev:
         sources:
           - table: ${self:custom.dynamo-table}
-            sources: [src/shared/infra/dynamodb/newSeed.json]
+            sources: [src/shared/infra/dynamodb/fullSeed.json]
 
 plugins:
   - serverless-offline
