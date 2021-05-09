@@ -52,7 +52,7 @@
 |AuthorPropositions | AUTHOR#\<AuthorId>| PROPOSITION#\<PropositionId>|
 |ThemePropositions | THEME#\<ThemeId>| #PROPOSITION#\<PropositionId>|
 |PoliticianFollowees | POLITICIAN#\<PoliticianId>      | USER#\<UserName> |
-|PoliticianThemeOrderedByCount | THEME#\<PoliticianId>      | \<ZeroPaddedContributionToThemeCount>POLITICIAN#\<PoliticianId> |
+|PoliticianThemeOrderedByCount | THEME#\<PoliticianId>      | z\<ZeroPaddedContributionToThemeCount>POLITICIAN#\<PoliticianId> |
 
 <!-- | Entity | GSI2PK | GSI2SK |
 | :------------ |:--------------| :-----| -->
