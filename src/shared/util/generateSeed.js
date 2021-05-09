@@ -8,7 +8,7 @@ const fetch = require('node-fetch');
 
 const earliestYear = 2020;
 const latestYear = 2021;
-const fullSeedPath = `${process.env.BASE_PROJECT_PATH}/src/shared/infra/dynamodb/newSeed.json`;
+const fullSeedPath = `${process.env.BASE_PROJECT_PATH}/src/shared/infra/dynamodb/fullSeed.json`;
 const miniSeedPath = `${process.env.BASE_PROJECT_PATH}/src/shared/infra/dynamodb/miniSeed.json`;
 const validPropositionsHash = {};
 
