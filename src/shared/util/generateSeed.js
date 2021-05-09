@@ -199,6 +199,15 @@ async function generateMiniSeed() {
 	writeToFile(miniFlattenData, miniSeedPath);
 }
 
+async function generateBothSeeds() {
+	const data = await getAllData();
+	const flattenData = _flatten(data);
+	writeToFile(flattenData, fullSeedPath);
+	const miniData = data.map((el) => el.slice(0, 5));
+	const miniFlattenData = _flatten(miniData);
+	writeToFile(miniFlattenData, miniSeedPath);
+}
+
 function writeToFile(data, path) {
 	const fs = require('fs');
 	try {
@@ -210,5 +219,6 @@ function writeToFile(data, path) {
 	}
 }
 
-generateFullSeed();
-generateMiniSeed();
+// generateFullSeed();
+// generateMiniSeed();
+generateBothSeeds();
