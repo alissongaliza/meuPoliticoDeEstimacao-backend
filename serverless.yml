@@ -35,8 +35,9 @@ custom:
       migration:
         dir: 'src/shared/infra/http/config/serverless/migration'
       convertEmptyValues: true
-      dbPath: 'src/shared/infra/dynamodb/'
-      # seed: true
+      inMemory: true
+      seed: true
+      migrate: true
     seed:
       dev:
         sources:
