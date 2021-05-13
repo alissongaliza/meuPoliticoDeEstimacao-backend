@@ -12,14 +12,14 @@
   - [x] List themes
   - [X] Find theme and list its newest propositions
   - [ ] [Needs processing]Find theme and list its politicians ordered by relevance in theme
-    - [ ] Most propositions overall
+    - [x] Most propositions overall
     - [ ] By state
       - [ ] any region
-    - [ ] Most propositions by period (last `x` years)
   - [x] Show rank stat of theme
     - Most relevant themes among users (show a #1/2/3 by the theme name)
   - [ ] Create proposition
   - [x] Find proposition and list its authors
+  - [x] List x lastest author propositions
   - [ ] Create politician
   - [x] Show follow count of politician
   - [ ] Find politician and list its newest propositions
