@@ -18,7 +18,7 @@ function getPropositions(year) {
 		.filter((el) => el.codTipo == '136' || el.codTipo == '139')
 		.map((proposition) => {
 			const { uri = '', ementa = '', keywords = [], id } = proposition;
-			validPropositionsHash[id + ''] = [];
+			validPropositionsHash[id + ''] = { themes: [], ...proposition };
 			const rawNonEmptyTags = keywords.split(',').filter(Boolean);
 			const tags = rawNonEmptyTags.map((el) => el.trim());
 			if (tags.length > 0) tags[tags.length - 1] = tags[tags.length - 1].substring(0, tags.length - 1);
@@ -39,7 +39,7 @@ function getPropositionsAndThemes(year) {
 		.filter(({ uriProposicao }) => !!validPropositionsHash[uriProposicao.split('proposicoes/')[1] + ''])
 		.map(({ codTema, uriProposicao }) => {
 			const propositionId = uriProposicao.split('proposicoes/')[1];
-			validPropositionsHash[propositionId + ''].push(codTema + '');
+			validPropositionsHash[propositionId + ''].themes.push(codTema + '');
 			return {
 				PK: `PROPOSITION#${propositionId}`,
 				SK: `THEME#${codTema}`,
@@ -57,17 +57,20 @@ function getAuthorsPropositions(year) {
 		.filter((el) => el.idDeputadoAutor !== undefined && !!validPropositionsHash[el.idProposicao + ''])
 		.map(({ idProposicao, idDeputadoAutor, nomeAutor }) => ({
 			PK: `PROPOSITION#${idProposicao}`,
-			SK: `POLITICIAN#${idDeputadoAutor}`,
+			SK: `AUTHOR#${idDeputadoAutor}`,
+			GSI1PK: `AUTHOR#${idDeputadoAutor}`,
+			GSI1SK: `${validPropositionsHash[idProposicao].dataApresentacao}#PROPOSITION#${idProposicao}`,
 			politicianId: idDeputadoAutor + '',
 			propositionId: idProposicao + '',
 			authorName: nomeAutor,
+			title: validPropositionsHash[idProposicao].ementa,
 		}));
 }
 
 function getAuthorsThemesTrackHash(propositionsAuthors) {
 	const authorsThemesTrackHash = {};
 	propositionsAuthors.map(({ propositionId, politicianId, authorName }) => {
-		const themes = validPropositionsHash[propositionId + ''] || [];
+		const themes = validPropositionsHash[propositionId + ''].themes || [];
 		return themes.map((themeId) => {
 			const key = `THEME#${themeId}POLITICIAN#${politicianId}`;
 			const count = (authorsThemesTrackHash[key] && authorsThemesTrackHash[key].count + 1) || 1;

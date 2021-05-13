@@ -124,38 +124,53 @@
     },
     {
         "PK": "PROPOSITION#2264061",
-        "SK": "POLITICIAN#204476",
+        "SK": "AUTHOR#204476",
+        "GSI1PK": "AUTHOR#204476",
+        "GSI1SK": "2020-10-06T18:36:00#PROPOSITION#2264061",
         "politicianId": "204476",
         "propositionId": "2264061",
-        "authorName": "Chiquinho Brazão"
+        "authorName": "Chiquinho Brazão",
+        "title": "\"Inclui um art. 1º-A ao texto da\",\", para estender a isenção do Imposto sobre Produtos Industrializados - IPI à aquisição de caminhão feita por transportador autônomo de cargas, e inclui um art. 72-A na\",\", para conceder isenção do IOF na operação de financiamento para a aquisição de caminhão por transportador autônomo de cargas.\""
     },
     {
         "PK": "PROPOSITION#2264052",
-        "SK": "POLITICIAN#204544",
+        "SK": "AUTHOR#204544",
+        "GSI1PK": "AUTHOR#204544",
+        "GSI1SK": "2020-10-06T16:57:00#PROPOSITION#2264052",
         "politicianId": "204544",
         "propositionId": "2264052",
-        "authorName": "Alexandre Frota"
+        "authorName": "Alexandre Frota",
+        "title": "“Cria o programa Meninas Grávidas para a proteção e conscientização de crianças e adolescentes sobre a gravidez precoce e dá outras providências.\""
     },
     {
         "PK": "PROPOSITION#2264051",
-        "SK": "POLITICIAN#72442",
+        "SK": "AUTHOR#72442",
+        "GSI1PK": "AUTHOR#72442",
+        "GSI1SK": "2020-10-06T16:43:00#PROPOSITION#2264051",
         "politicianId": "72442",
         "propositionId": "2264051",
-        "authorName": "Felipe Carreras"
+        "authorName": "Felipe Carreras",
+        "title": "Estabelece diretrizes para as políticas públicas de desenvolvimento sustentável dos povos e comunidades tradicionais."
     },
     {
         "PK": "PROPOSITION#2264050",
-        "SK": "POLITICIAN#178925",
+        "SK": "AUTHOR#178925",
+        "GSI1PK": "AUTHOR#178925",
+        "GSI1SK": "2020-10-06T16:36:00#PROPOSITION#2264050",
         "politicianId": "178925",
         "propositionId": "2264050",
-        "authorName": "Rejane Dias"
+        "authorName": "Rejane Dias",
+        "title": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a afixação de avisos nos estabelecimentos públicos e privados e dá outras providências."
     },
     {
         "PK": "PROPOSITION#2264049",
-        "SK": "POLITICIAN#178925",
+        "SK": "AUTHOR#178925",
+        "GSI1PK": "AUTHOR#178925",
+        "GSI1SK": "2020-10-06T16:36:00#PROPOSITION#2264049",
         "politicianId": "178925",
         "propositionId": "2264049",
-        "authorName": "Rejane Dias"
+        "authorName": "Rejane Dias",
+        "title": "Altera a Lei nº 8.069, de 13 de julho de 1990, a fim de tipificar como crime o estabelecimento que proibir ou constranger a mãe no momento da amamentação."
     },
     {
         "PK": "THEME#70",
