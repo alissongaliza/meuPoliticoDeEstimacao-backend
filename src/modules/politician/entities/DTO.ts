@@ -12,3 +12,8 @@ export interface RelevantPoliticiansByTheme {
 export interface FindRelevantPoliticiansByThemeDTO {
 	orderedThemes: string[];
 }
+
+export interface ListPropositionsByAuthorDTO {
+	id: string;
+	title: string;
+}
