@@ -5,19 +5,13 @@ export class Proposition {
 	private constructor(
 		private _id: string,
 		private _uri: string,
-		private _ementa: string,
+		private _title: string,
 		private _authors: Politician[],
 		private _themes: Theme[]
 	) {}
 
-	static create(
-		id: string,
-		uri: string,
-		ementa: string,
-		authors: Politician[] = [],
-		themes: Theme[] = []
-	): Proposition {
-		return new Proposition(id, uri, ementa, authors, themes);
+	static create(id: string, uri: string, title: string, authors: Politician[] = [], themes: Theme[] = []): Proposition {
+		return new Proposition(id, uri, title, authors, themes);
 	}
 
 	get id(): string {
@@ -36,12 +30,12 @@ export class Proposition {
 		this._uri = uri;
 	}
 
-	get ementa(): string {
-		return this._ementa;
+	get title(): string {
+		return this._title;
 	}
 
-	set ementa(ementa: string) {
-		this._ementa = ementa;
+	set title(title: string) {
+		this._title = title;
 	}
 
 	get authors(): Politician[] {

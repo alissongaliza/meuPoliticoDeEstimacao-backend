@@ -21,7 +21,6 @@ export class ListPropositionByAuthorRepository implements IListPropositionByAuth
 			Limit: 25,
 		};
 		const { Items } = await DynamoDBInstance.query(params).promise();
-		console.info({ Items, id });
 		if (Items && Items.length > 0) {
 			return (Items as AuthorPropositionDynamodb[]).map<ListPropositionsByAuthorDTO>((el) => ({
 				id: el.propositionId,

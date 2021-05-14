@@ -17,3 +17,8 @@ export interface ListPropositionsByAuthorDTO {
 	id: string;
 	title: string;
 }
+
+export interface ListThemesByAuthorDTO {
+	id: string;
+	count: number;
+}

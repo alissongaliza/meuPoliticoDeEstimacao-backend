@@ -116,6 +116,19 @@ listPropositionByAuthor:
               id: true
         cors:
           origin: '*'
+listThemesByAuthor:
+  handler: src/modules/politician/controllers/ListThemesByAuthorController.listThemesByAuthor
+  description: List ThemesByAuthor
+  events:
+    - http:
+        path: politicians/{id}/themes
+        method: get
+        request:
+          parameters:
+            paths:
+              id: true
+        cors:
+          origin: '*'
 listRelevantPoliticiansByTheme:
   handler: src/modules/politician/controllers/ListRelevantPoliticiansByThemeController.listRelevantPoliticiansByTheme
   description: List relevant politicians by theme
