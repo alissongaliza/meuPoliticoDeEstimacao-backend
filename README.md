@@ -54,5 +54,6 @@
 |PoliticianFollowees | POLITICIAN#\<PoliticianId>      | USER#\<UserName> |
 |PoliticianThemeOrderedByCount | THEME#\<PoliticianId>      | z\<ZeroPaddedContributionToThemeCount>POLITICIAN#\<PoliticianId> |
 
-<!-- | Entity | GSI2PK | GSI2SK |
-| :------------ |:--------------| :-----| -->
+| Entity | GSI2PK | GSI2SK |
+| :------------ |:--------------| :-----|
+|PoliticianTheme | POLITICIAN#\<PoliticianId>      | z\<ZeroPaddedContributionToThemeCount>THEME#\<ThemeId> |
