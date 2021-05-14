@@ -83,6 +83,8 @@ function getAuthorsThemesTrackHash(propositionsAuthors) {
 				count,
 				GSI1PK: `THEME#${themeId}`,
 				GSI1SK: `z${paddedCount}POLITICIAN#${politicianId}`,
+				GSI2PK: `POLITICIAN#${politicianId}`,
+				GSI2SK: `z${paddedCount}THEME#${themeId}`,
 				authorName,
 			};
 		});

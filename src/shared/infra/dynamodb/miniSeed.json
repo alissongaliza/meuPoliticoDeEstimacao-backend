@@ -180,6 +180,8 @@
         "count": 2,
         "GSI1PK": "THEME#70",
         "GSI1SK": "z00002POLITICIAN#204476",
+        "GSI2PK": "POLITICIAN#204476",
+        "GSI2SK": "z00002THEME#70",
         "authorName": "Chiquinho Brazão"
     },
     {
@@ -190,6 +192,8 @@
         "count": 2,
         "GSI1PK": "THEME#58",
         "GSI1SK": "z00002POLITICIAN#204476",
+        "GSI2PK": "POLITICIAN#204476",
+        "GSI2SK": "z00002THEME#58",
         "authorName": "Chiquinho Brazão"
     },
     {
@@ -200,6 +204,8 @@
         "count": 1,
         "GSI1PK": "THEME#61",
         "GSI1SK": "z00001POLITICIAN#204476",
+        "GSI2PK": "POLITICIAN#204476",
+        "GSI2SK": "z00001THEME#61",
         "authorName": "Chiquinho Brazão"
     },
     {
@@ -210,6 +216,8 @@
         "count": 36,
         "GSI1PK": "THEME#34",
         "GSI1SK": "z00036POLITICIAN#204544",
+        "GSI2PK": "POLITICIAN#204544",
+        "GSI2SK": "z00036THEME#34",
         "authorName": "Alexandre Frota"
     },
     {
@@ -220,6 +228,8 @@
         "count": 75,
         "GSI1PK": "THEME#44",
         "GSI1SK": "z00075POLITICIAN#204544",
+        "GSI2PK": "POLITICIAN#204544",
+        "GSI2SK": "z00075THEME#44",
         "authorName": "Alexandre Frota"
     },
     {

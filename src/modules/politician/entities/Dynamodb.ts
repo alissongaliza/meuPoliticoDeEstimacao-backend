@@ -13,6 +13,8 @@ export interface AuthorThemeDynamodb {
 	authorName: string;
 	GSI1PK: string;
 	GSI1SK: string;
+	GSI2PK: string;
+	GSI2SK: string;
 	count: number;
 }
 
